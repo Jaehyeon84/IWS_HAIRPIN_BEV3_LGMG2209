@@ -1,0 +1,41 @@
+[N:20240207 09:28:20.764] [00001] InteliWeldSystem started=======================================
+[N:20240207 09:28:23.147] [00001] Initializing Inteli Weld System : start
+[N:20240207 09:28:33.366] [00001] No camera present
+[E:20240207 09:28:43.886] [00001] Failed to open the scanner controller
+[N:20240207 09:28:43.886] [00001] Initializing Inteli Weld System : end
+[N:20240207 09:29:04.993] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:04.995] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20240207 09:29:06.020] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240207 09:29:06.020] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240207 09:29:06.020] [00001] Scanner power alarm = [-858993460].
+[E:20240207 09:29:06.020] [00001] Scanner temperature alarm = [-858993460].
+[N:20240207 09:29:06.020] [09999] !!! Reconnect PLC !!!
+[N:20240207 09:29:06.020] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:06.344] [00001] Initializing Inteli Weld System : end
+[N:20240207 09:29:09.299] [00000] Offline Mode
+[N:20240207 09:29:11.794] [00000] Log On : Administrator
+[N:20240207 09:29:20.106] [00001] Open Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA.wrk
+[E:20240207 09:29:20.174] [00001] Work file load as Normal works
+[N:20240207 09:29:20.183] [00001] Open Done Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA.wrk
+[N:20240207 09:29:23.798] [00001] Open Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigB.wrk
+[E:20240207 09:29:23.871] [00001] Work file load as Normal works
+[N:20240207 09:29:23.880] [00001] Open Done Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigB.wrk
+[N:20240207 09:29:27.023] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240207 09:29:27.023] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:27.125] [09999] !!! Reconnect PLC !!!
+[N:20240207 09:29:27.125] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:32.785] [00001] Open Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA_org.wrk
+[E:20240207 09:29:32.840] [00001] Work file load as Normal works
+[N:20240207 09:29:32.850] [00001] Open Done Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA_org.wrk
+[N:20240207 09:29:36.293] [00001] Open Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigB_org.wrk
+[E:20240207 09:29:36.349] [00001] Work file load as Normal works
+[N:20240207 09:29:36.359] [00001] Open Done Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigB_org.wrk
+[N:20240207 09:29:38.989] [00001] Open Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA.wrk
+[E:20240207 09:29:39.064] [00001] Work file load as Normal works
+[N:20240207 09:29:39.074] [00001] Open Done Work File : C:\Project_Azure\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_CRing\bin\Work\76 Cring JigA.wrk
+[E:20240207 09:29:46.811] [00001] Laser Power ON - OK
+[N:20240207 09:29:48.131] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:48.131] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20240207 09:29:51.789] [00001] Laser Power ON - OK
+[N:20240207 09:29:52.313] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240207 09:29:53.315] [00001] IWS exit!======================================================

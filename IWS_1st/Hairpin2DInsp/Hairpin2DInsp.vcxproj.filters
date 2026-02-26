@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Global">
+      <UniqueIdentifier>{ea7a0192-eff7-4988-9bd0-e457671ce898}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{0529382f-b794-424d-a3f1-f9db4339941b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Detection">
+      <UniqueIdentifier>{1cf06b5d-633f-4a0e-990e-eedcbff0d240}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Link">
+      <UniqueIdentifier>{edc9c99a-d5d9-473b-a72c-918d7dc09edc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SDK">
+      <UniqueIdentifier>{29613e9a-7c6a-4c95-9b88-1c97f6bb34ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Detection\DoAlgorithm">
+      <UniqueIdentifier>{45035324-149c-4bf2-9f9a-e79426c170e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Zip">
+      <UniqueIdentifier>{bc449061-c167-4b2a-b781-01c57c1a9959}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Hairpin2DInsp.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DetectionAlgorithm.h">
+      <Filter>Detection</Filter>
+    </ClInclude>
+    <ClInclude Include="Algorithm.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryManager.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="RecipeManager.h">
+      <Filter>Global</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgCriteria.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDetectBlob.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgImageProcManager.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgInterpolation.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMakeUnrolled.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgRemoveNoise.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgROI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Hairpin2DInspDlg.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Hairpin2D.h">
+      <Filter>Link</Filter>
+    </ClInclude>
+    <ClInclude Include="semiinfo.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgResultViewer.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgBatchInspection.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgResultViewer.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgMaskConvolution.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgDataSave.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgHairpin.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="zip.h">
+      <Filter>Zip</Filter>
+    </ClInclude>
+    <ClInclude Include="DlgRecipeManage.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Hairpin2DInsp.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="DetectionAlgorithm.cpp">
+      <Filter>Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="Algorithm.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="MemoryManager.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="RecipeManager.cpp">
+      <Filter>Global</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgCriteria.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDetectBlob.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgImageProcManager.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgInterpolation.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMakeUnrolled.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRemoveNoise.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgROI.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Hairpin2DInspDlg.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Hairpin2D.cpp">
+      <Filter>Link</Filter>
+    </ClCompile>
+    <ClCompile Include="ThreadControl.cpp">
+      <Filter>Detection</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgResultViewer.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgBatchInspection.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DoCalcHairpinCenter.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoCriteria.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoDataExchange.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoDetectBlob.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoInterpolation.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoMakeOverlay.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoMakeSubOriginalImage.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoMakeUnrolledImage.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoRemoveNoise.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoResultDataSave.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DoSetDetectionROI.cpp">
+      <Filter>Detection\DoAlgorithm</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgMaskConvolution.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgDataSave.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgHairpin.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="zip.cpp">
+      <Filter>Zip</Filter>
+    </ClCompile>
+    <ClCompile Include="DlgRecipeManage.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Hairpin2DInsp.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Hairpin2DInsp.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="Hairpin2DInsp.def">
+      <Filter>소스 파일</Filter>
+    </None>
+    <None Include="SDK\HubisSDK_Developer_v1.2.6_release.msi">
+      <Filter>SDK</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\HUBIS.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

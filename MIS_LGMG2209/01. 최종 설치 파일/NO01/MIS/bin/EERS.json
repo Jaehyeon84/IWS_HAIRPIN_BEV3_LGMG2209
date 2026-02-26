@@ -1,0 +1,17 @@
+{
+  "EERS": {
+    "EQPID": "MXPM-01MLQI087",
+    "CEID": "20100",
+    "RPTID": "20100",
+    "SUBITEM_LIST": [
+      {
+        "NAME": "SETID",
+        "VALUE": "BSLR230381004724051949"
+      },
+      {
+        "NAME": "SPEC_DOWNLOAD_YN",
+        "VALUE": "Y"
+      }
+    ]
+  }
+}

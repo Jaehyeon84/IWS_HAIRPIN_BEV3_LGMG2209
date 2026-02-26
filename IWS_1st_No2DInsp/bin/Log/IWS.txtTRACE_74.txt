@@ -1,0 +1,691 @@
+[N:20240704 13:31:19.937] [00001] InteliWeldSystem started=======================================
+[N:20240704 13:31:21.733] [09999] -- Pop Thread Started --
+[N:20240704 13:31:24.767] [00001] Initializing Inteli Weld System : start
+[E:20240704 13:31:27.620] [00001] Failed to open the scanner controller
+[N:20240704 13:31:27.621] [00001] Initializing Inteli Weld System : end
+[N:20240704 13:31:48.738] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:31:48.739] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20240704 13:31:51.999] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 13:31:51.999] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 13:31:51.999] [00001] Scanner power alarm = [-858993460].
+[E:20240704 13:31:51.999] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 13:31:56.121] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:31:56.121] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:17.126] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:32:17.130] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:17.327] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:32:17.327] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:38.330] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:38.332] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:32:38.533] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:32:38.533] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:42.948] [00001] Initializing Inteli Weld System : end
+[N:20240704 13:32:59.538] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:32:59.551] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:32:59.752] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:32:59.752] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:33:20.758] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:33:20.758] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:33:20.959] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:33:20.959] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:33:41.964] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:33:41.964] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:33:42.165] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:33:42.165] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:03.179] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:34:03.179] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:03.381] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:34:03.381] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:24.388] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:34:24.391] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:24.589] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:34:24.589] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:45.594] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:34:45.594] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:34:45.796] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:34:45.796] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:06.802] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:06.804] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:35:07.005] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:35:07.005] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:28.010] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:35:28.010] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:28.212] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:35:28.212] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:49.217] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:35:49.217] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:35:49.419] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:35:49.419] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:10.425] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:36:10.436] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:10.627] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:36:10.627] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:31.633] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:31.643] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:36:31.844] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:36:31.844] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:52.850] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:36:52.851] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:36:53.050] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:36:53.050] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:14.055] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:37:14.056] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:14.257] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:37:14.257] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:35.263] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:35.264] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:37:35.466] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:37:35.466] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:56.471] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:37:56.479] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:37:56.681] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:37:56.681] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:38:17.685] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:38:17.686] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:38:17.887] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:38:17.887] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:38:38.893] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:38:38.894] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:38:39.094] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:38:39.094] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:00.100] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:00.112] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:39:00.313] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:39:00.313] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:21.319] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:21.325] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:39:21.526] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:39:21.526] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:28.450] [00000] Log On : Master
+[N:20240704 13:39:42.533] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:39:42.536] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:39:42.735] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:39:42.735] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:40:03.739] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 13:40:03.741] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:40:03.940] [09999] !!! Reconnect PLC !!!
+[N:20240704 13:40:03.940] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:40:13.691] [00001] Hairpin Pattern has been canceled.
+[E:20240704 13:40:20.339] [00001] Laser Power ON - OK
+[N:20240704 13:40:24.497] [09999] -- Pop Thread Ended --
+[N:20240704 13:40:24.946] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:40:24.947] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20240704 13:40:25.790] [00001] Laser Power ON - OK
+[N:20240704 13:40:26.323] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 13:40:27.348] [00001] IWS exit!======================================================
+[N:20240704 14:18:56.937] [00001] InteliWeldSystem started=======================================
+[N:20240704 14:18:58.608] [09999] -- Pop Thread Started --
+[N:20240704 14:19:01.657] [00001] Initializing Inteli Weld System : start
+[E:20240704 14:19:03.171] [00001] Failed to open the scanner controller
+[N:20240704 14:19:03.171] [00001] Initializing Inteli Weld System : end
+[N:20240704 14:19:24.280] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:19:24.301] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20240704 14:19:28.718] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 14:19:28.718] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 14:19:28.718] [00001] Scanner power alarm = [-858993460].
+[E:20240704 14:19:28.718] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 14:19:32.837] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:19:32.837] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:19:53.843] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:19:53.844] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:19:54.046] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:19:54.046] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:45:56.481] [00001] InteliWeldSystem started=======================================
+[N:20240704 14:45:58.031] [09999] -- Pop Thread Started --
+[N:20240704 14:46:00.468] [00001] Initializing Inteli Weld System : start
+[E:20240704 14:46:02.327] [00001] Failed to open the scanner controller
+[N:20240704 14:46:02.327] [00001] Initializing Inteli Weld System : end
+[N:20240704 14:46:23.435] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:46:23.436] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20240704 14:47:01.548] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 14:47:01.548] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 14:47:01.548] [00001] Scanner power alarm = [-858993460].
+[E:20240704 14:47:01.548] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 14:47:03.363] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:47:03.363] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:47:24.368] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:47:24.369] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:47:40.978] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:47:40.978] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:48:01.983] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:48:01.986] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:48:09.104] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:48:09.104] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:48:30.108] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:48:30.109] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:49:04.107] [09999] !!! Reconnect PLC !!!
+[N:20240704 14:49:04.107] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:49:25.112] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:49:25.114] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 14:58:56.472] [00001] InteliWeldSystem started=======================================
+[N:20240704 14:58:57.951] [09999] -- Pop Thread Started --
+[N:20240704 14:59:01.355] [00001] Initializing Inteli Weld System : start
+[E:20240704 14:59:04.492] [00001] Failed to open the scanner controller
+[N:20240704 14:59:04.492] [00001] Initializing Inteli Weld System : end
+[N:20240704 14:59:25.598] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 14:59:25.599] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[W:20240704 15:01:59.833] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:01:59.833] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:01:59.833] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:01:59.833] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:01:59.934] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:01:59.934] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:02:01.844] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:02:20.938] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:02:20.939] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:02:27.252] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:02:27.252] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:02:33.503] [00000] Online Mode
+[N:20240704 15:02:38.152] [00001] The recipe should be number 1-6.
+[N:20240704 15:02:40.877] [00000] Offline Mode
+[N:20240704 15:02:48.257] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:02:48.257] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:02:48.459] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:02:48.459] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:02:48.830] [00000] Log On : Master
+[N:20240704 15:03:28.304] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:03:30.156] [09999] -- Pop Thread Started --
+[N:20240704 15:03:33.398] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:03:35.797] [00001] Failed to open the scanner controller
+[N:20240704 15:03:35.798] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:03:56.912] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:03:56.922] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:03:59.628] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:04:00.616] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:04:00.616] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:04:00.616] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:04:00.616] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:04:04.740] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:04:04.740] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:04:14.406] [00000] Log On : Master
+[N:20240704 15:04:25.744] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:04:25.744] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:04:25.946] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:04:25.946] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:04:46.953] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:04:46.954] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:04:47.154] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:04:47.154] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:04:59.821] [00001] 1St Pattern WeldShape has been changed. [Octagon] -> [Ellipse]
+[N:20240704 15:05:00.395] [00001] 1St Pattern Apply Layer has been changed. [None] -> [All]
+[N:20240704 15:05:04.000] [00001] 2ND Pattern Apply Layer has been changed. [None] -> [All]
+[N:20240704 15:05:07.901] [00001] Hairpin Pattern has been canceled.
+[N:20240704 15:05:08.160] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:05:08.160] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:05:08.361] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:05:08.361] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:05:11.419] [03000] Division Value : (WeldOption : 0), (Start Slot : 1), (Jump Offset : 4)
+[N:20240704 15:05:11.469] [00001] Back Up Config File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Config\BackUp\configIWS_20240704_150511.ini
+[N:20240704 15:05:29.367] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:05:29.369] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:05:29.568] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:05:29.568] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:05:38.204] [09999] DoVScan, GetDoEmission = [0]
+[E:20240704 15:05:48.413] [00001] Laser On Timeout!
+[N:20240704 15:05:48.961] [09999] SetFlagStitchImageDone() : 0
+
+[N:20240704 15:05:48.962] [09999] [ScanStart()] Start--------------->
+[N:20240704 15:05:48.964] [09999] [ScanStart()] Scan Block Count : 190
+[N:20240704 15:05:49.526] [00001] Update3DPosition Read Work Jig: 0
+[E:20240704 15:05:49.526] [00001] Update3DPosition None Work Jig: 0
+[N:20240704 15:05:49.526] [00001] Update3DPosition Read Work Jig: 0
+[E:20240704 15:05:49.526] [00001] Update3DPosition None Work Jig: 0
+[N:20240704 15:05:50.574] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:05:50.575] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:05:50.777] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:05:50.777] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:11.780] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:06:11.801] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:11.981] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:06:11.981] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:32.987] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:06:32.997] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:33.190] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:06:33.190] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:54.200] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:06:54.203] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:06:54.401] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:06:54.401] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:07:08.740] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:07:10.774] [09999] -- Pop Thread Started --
+[N:20240704 15:07:14.099] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:07:15.098] [00001] Failed to open the scanner controller
+[N:20240704 15:07:15.098] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:07:36.205] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:07:36.211] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20240704 15:07:39.604] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:07:39.604] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:07:39.604] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:07:39.604] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:07:43.724] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:07:43.724] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:04.728] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:04.736] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:08:04.937] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:08:04.937] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:13.518] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:08:19.093] [00000] Online Mode
+[N:20240704 15:08:24.303] [00001] The recipe should be number 1-6.
+[N:20240704 15:08:25.941] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:08:25.942] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:26.142] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:08:26.142] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:27.453] [00000] Offline Mode
+[N:20240704 15:08:47.146] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:47.165] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:08:47.366] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:08:47.366] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:08:57.096] [00000] Log On : Master
+[N:20240704 15:09:08.369] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:09:08.372] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:09:08.571] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:09:08.571] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:09:29.577] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:09:29.577] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:09:29.779] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:09:29.779] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:09:50.784] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:09:50.784] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:09:50.985] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:09:50.985] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:10.621] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20240704 15:10:10.631] [00001] Work file version is too old : v108
+[N:20240704 15:10:11.990] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:11.990] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:10:12.192] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:10:12.192] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:24.004] [00001] Back Up Config File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Config\BackUp\configIWS_20240704_151024.ini
+[N:20240704 15:10:26.972] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\defaults.wrk
+[E:20240704 15:10:26.976] [00001] Work file version is too old : v108
+[N:20240704 15:10:33.197] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:33.197] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:10:33.399] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:10:33.399] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:39.396] [00001] Back Up Config File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Config\BackUp\configIWS_20240704_151039.ini
+[N:20240704 15:10:42.161] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:10:42.244] [00001] Work file load as Normal works
+[N:20240704 15:10:42.257] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:10:51.744] [00001] Laser Power ON - OK
+[N:20240704 15:10:54.406] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:10:54.407] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:55.772] [09999] -- Pop Thread Ended --
+[E:20240704 15:10:57.058] [00001] Laser Power ON - OK
+[N:20240704 15:10:57.584] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:10:58.599] [00001] IWS exit!======================================================
+[N:20240704 15:19:34.902] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:19:36.870] [09999] -- Pop Thread Started --
+[N:20240704 15:19:39.161] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:20:18.773] [00001] Failed to open the scanner controller
+[N:20240704 15:20:18.774] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:20:39.881] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:20:39.882] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:20:42.058] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:20:42.146] [00001] Work file load as Normal works
+[N:20240704 15:20:42.162] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:20:42.178] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:20:43.079] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:20:43.079] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:20:43.079] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:20:43.079] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:20:47.201] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:20:47.201] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:21:08.205] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:21:08.206] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:21:08.407] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:21:08.407] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:21:12.691] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:21:12.762] [00001] Work file load as Normal works
+[N:20240704 15:21:12.769] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:21:17.152] [00001] The recipe should be number 1-6.
+[N:20240704 15:21:29.413] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:21:29.413] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:21:29.614] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:21:29.614] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:21:35.841] [00001] Laser On Timeout!
+[N:20240704 15:21:39.307] [00001] Update3DPosition Read Work Jig: 0
+[E:20240704 15:21:39.307] [00001] Update3DPosition None Work Jig: 0
+[N:20240704 15:21:43.086] [09999] DoVScan, GetDoEmission = [0]
+[N:20240704 15:21:50.619] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:21:50.619] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:21:50.821] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:21:50.821] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:21:53.294] [00001] Laser On Timeout!
+[N:20240704 15:21:53.864] [09999] SetFlagStitchImageDone() : 0
+
+[N:20240704 15:21:53.867] [09999] [ScanStart()] Start--------------->
+[N:20240704 15:21:53.867] [09999] [ScanStart()] Scan Block Count : 190
+[N:20240704 15:21:53.907] [00001] Update3DPosition Read Work Jig: 0
+[E:20240704 15:21:53.907] [00001] Update3DPosition None Work Jig: 0
+[N:20240704 15:23:34.249] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:23:36.195] [09999] -- Pop Thread Started --
+[N:20240704 15:23:38.499] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:24:22.431] [00001] Failed to open the scanner controller
+[N:20240704 15:24:22.431] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:24:43.541] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:24:43.541] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:24:46.924] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:24:47.144] [00001] Work file load as Normal works
+[N:20240704 15:24:47.168] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:24:47.190] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:24:47.967] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:24:47.967] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:24:47.967] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:24:47.967] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:24:52.091] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:24:52.091] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:24:59.531] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:24:59.650] [00001] Work file load as Normal works
+[N:20240704 15:24:59.660] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:25:13.105] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:25:13.108] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:25:13.307] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:25:13.307] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:25:34.312] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:25:34.315] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:25:34.512] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:25:34.512] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:25:40.097] [00001] Laser Power ON - OK
+[N:20240704 15:25:49.744] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:25:51.849] [09999] -- Pop Thread Started --
+[N:20240704 15:25:55.227] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:26:18.694] [00001] Failed to open the scanner controller
+[N:20240704 15:26:18.694] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:26:39.803] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:26:39.806] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:26:42.902] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:26:43.002] [00001] Work file load as Normal works
+[N:20240704 15:26:43.021] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:26:43.041] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:26:43.920] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:26:43.920] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:26:43.920] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:26:43.920] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:26:48.039] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:26:48.039] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:09.045] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:27:09.045] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:09.247] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:27:09.247] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:30.253] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:30.254] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:27:30.455] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:27:30.455] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:51.461] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:27:51.462] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:27:51.662] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:27:51.662] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:12.667] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:12.668] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:28:12.870] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:28:12.870] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:33.873] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:33.882] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:28:34.083] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:28:34.083] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:55.090] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:28:55.090] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:28:55.291] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:28:55.291] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:16.295] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:16.297] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:29:16.498] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:29:16.498] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:37.501] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:37.502] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:29:37.703] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:29:37.703] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:58.708] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:29:58.709] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:29:58.910] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:29:58.910] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:30:19.919] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:30:19.925] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:30:20.120] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:30:20.120] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:30:41.124] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:30:41.127] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:30:41.329] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:30:41.329] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:02.334] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:31:02.335] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:02.536] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:31:02.536] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:23.543] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:31:23.556] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:23.744] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:31:23.744] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:44.747] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:31:44.748] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:31:44.948] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:31:44.948] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:32:05.953] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:32:05.954] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:32:06.155] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:32:06.155] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:32:22.480] [00001] Laser Power ON - OK
+[N:20240704 15:32:26.553] [09999] -- Pop Thread Ended --
+[N:20240704 15:32:27.159] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:32:27.160] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20240704 15:32:28.003] [00001] Laser Power ON - OK
+[N:20240704 15:32:28.534] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:32:29.558] [00001] IWS exit!======================================================
+[N:20240704 15:33:56.559] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:33:58.625] [09999] -- Pop Thread Started --
+[N:20240704 15:34:02.175] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:34:24.612] [00001] Failed to open the scanner controller
+[N:20240704 15:34:24.612] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:34:45.724] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:34:45.724] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:34:49.040] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:34:49.147] [00001] Work file load as Normal works
+[N:20240704 15:34:49.163] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:34:49.177] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:35:14.565] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:35:16.527] [09999] -- Pop Thread Started --
+[N:20240704 15:35:18.971] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:35:20.874] [00001] Failed to open the scanner controller
+[N:20240704 15:35:20.874] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:35:41.983] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:35:41.987] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:35:43.991] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:35:44.071] [00001] Work file load as Normal works
+[N:20240704 15:35:44.086] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:35:44.098] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:35:45.004] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:35:45.004] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:35:45.004] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:35:45.004] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:35:49.124] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:35:49.124] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:10.129] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:10.130] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:36:10.332] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:36:10.332] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:31.337] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:31.338] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:36:31.540] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:36:31.540] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:52.546] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:36:52.551] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:36:52.748] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:36:52.748] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:13.753] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:13.754] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:37:13.955] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:37:13.955] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:34.962] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:37:34.962] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:35.163] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:37:35.163] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:56.170] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:37:56.171] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:37:56.373] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:37:56.373] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:17.379] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:38:17.380] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:17.580] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:38:17.580] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:38.585] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:38:38.585] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:38.787] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:38:38.787] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:59.793] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:38:59.796] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:38:59.994] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:38:59.994] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:39:20.999] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:39:21.003] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:39:21.199] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:39:21.199] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:39:42.204] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:39:42.205] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:39:42.406] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:39:42.406] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:03.412] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:03.418] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:40:03.619] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:40:03.619] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:24.622] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:24.623] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:40:24.824] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:40:24.824] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:45.830] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:40:45.831] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:40:46.033] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:40:46.033] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:07.038] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:07.038] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:41:07.239] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:41:07.239] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:28.244] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:28.253] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:41:28.454] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:41:28.454] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:49.464] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:41:49.466] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:41:49.667] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:41:49.667] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:42:10.673] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:42:10.683] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:42:10.874] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:42:10.874] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:42:18.478] [00001] Laser Power ON - OK
+[N:20240704 15:42:22.548] [09999] -- Pop Thread Ended --
+[E:20240704 15:42:23.872] [00001] Laser Power ON - OK
+[N:20240704 15:42:24.413] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:42:25.436] [00001] IWS exit!======================================================
+[N:20240704 15:42:33.797] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:42:35.691] [09999] -- Pop Thread Started --
+[N:20240704 15:42:38.186] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:42:39.602] [00001] Failed to open the scanner controller
+[N:20240704 15:42:39.602] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:43:00.710] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:43:00.716] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:43:03.830] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:43:03.944] [00001] Work file load as Normal works
+[N:20240704 15:43:03.962] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:43:03.984] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:43:04.844] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:43:04.844] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:43:04.844] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:43:04.844] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:43:08.961] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:43:08.961] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:43:14.271] [00001] Laser Power ON - OK
+[N:20240704 15:43:18.274] [09999] -- Pop Thread Ended --
+[E:20240704 15:43:19.566] [00001] Laser Power ON - OK
+[N:20240704 15:43:20.094] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:43:21.097] [00001] IWS exit!======================================================
+[N:20240704 15:43:42.708] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:43:44.620] [09999] -- Pop Thread Started --
+[N:20240704 15:43:47.090] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:44:01.053] [00001] Failed to open the scanner controller
+[N:20240704 15:44:01.053] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:44:22.160] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:44:22.163] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:44:24.927] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:44:25.017] [00001] Work file load as Normal works
+[N:20240704 15:44:25.029] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:44:25.047] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:44:25.942] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:44:25.942] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:44:25.942] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:44:25.942] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:44:30.062] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:44:30.062] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:44:51.066] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:44:51.068] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:44:51.269] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:44:51.269] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:12.274] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:45:12.276] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:12.476] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:45:12.476] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:33.481] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:33.486] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:45:33.687] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:45:33.687] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:54.690] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:45:54.693] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:45:54.892] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:45:54.892] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:15.898] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:15.900] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:46:16.101] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:46:16.101] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:37.107] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:37.107] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:46:37.309] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:46:37.309] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:58.315] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:46:58.317] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:46:58.517] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:46:58.517] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:47:19.521] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:47:19.530] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:47:19.732] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:47:19.732] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:47:40.737] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:47:40.738] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:47:40.939] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:47:40.939] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:01.946] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:48:01.948] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:02.147] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:48:02.147] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:23.154] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:23.155] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:48:23.356] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:48:23.356] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:44.361] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:48:44.362] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:48:44.563] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:48:44.563] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:49:05.568] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:49:05.570] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:49:05.769] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:49:05.769] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:50:29.782] [00001] InteliWeldSystem started=======================================
+[N:20240704 15:52:10.449] [09999] -- Pop Thread Started --
+[N:20240704 15:52:13.436] [00001] Initializing Inteli Weld System : start
+[E:20240704 15:52:14.011] [00001] Failed to open the scanner controller
+[N:20240704 15:52:14.011] [00001] Initializing Inteli Weld System : end
+[N:20240704 15:52:35.118] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:52:35.120] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:52:38.172] [00001] Open Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[E:20240704 15:52:38.252] [00001] Work file load as Normal works
+[N:20240704 15:52:38.263] [00001] Open Done Work File : D:\TFS\IWS_HAIRPIN_BEV3_LGMG2209\IWS_1st_No2DInsp\bin\Work\76 Cring JigA.wrk
+[N:20240704 15:52:38.275] [00001] Initializing Inteli Weld System : end
+[W:20240704 15:52:39.195] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20240704 15:52:39.195] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20240704 15:52:39.195] [00001] Scanner power alarm = [-858993460].
+[E:20240704 15:52:39.195] [00001] Scanner temperature alarm = [-858993460].
+[N:20240704 15:52:43.310] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:52:43.310] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:53:04.314] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20240704 15:53:04.323] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:53:04.515] [09999] !!! Reconnect PLC !!!
+[N:20240704 15:53:04.515] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[E:20240704 15:53:24.409] [00001] Laser Power ON - OK
+[N:20240704 15:53:25.521] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20240704 15:53:25.523] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)

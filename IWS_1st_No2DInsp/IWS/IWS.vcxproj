@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{E29281D1-77F8-450F-B201-C1A0E8ABDFF0}</ProjectGuid>
+    <Keyword>MFCProj</Keyword>
+    <RootNamespace>IWS</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <SccProjectName>SAK</SccProjectName>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccProvider>SAK</SccProvider>
+    <ProjectName>IWS</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)bin\</OutDir>
+    <IncludePath>$(IncludePath)</IncludePath>
+    <LibraryPath>$(LibraryPath)</LibraryPath>
+    <TargetName>$(ProjectName)D</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)bin\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)bin\</OutDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WINDOWS;_DEBUG;_CRT_SECURE_NO_WARNINGS;_WINSOCK_DEPRECATED_NO_WARNINGS;_CHECK_ALGO;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Program Files\Basler\pylon 5\Development\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <SupportJustMyCode>false</SupportJustMyCode>
+      <CallingConvention>StdCall</CallingConvention>
+      <OpenMPSupport>true</OpenMPSupport>
+      <AdditionalOptions>
+      </AdditionalOptions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <AdditionalLibraryDirectories>C:\Program Files\Basler\pylon 5\Development\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <DelayLoadDLLs>%(DelayLoadDLLs)</DelayLoadDLLs>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_CRT_SECURE_NO_WARNINGS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WINDOWS;NDEBUG;_CRT_SECURE_NO_WARNINGS;_WINSOCK_DEPRECATED_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Program Files\Basler\pylon 5\Development\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OpenMPSupport>true</OpenMPSupport>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>C:\Program Files\Basler\pylon 5\Development\lib\x64</AdditionalLibraryDirectories>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0412</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="alglib\src\alglibinternal.h" />
+    <ClInclude Include="alglib\src\alglibmisc.h" />
+    <ClInclude Include="alglib\src\ap.h" />
+    <ClInclude Include="alglib\src\dataanalysis.h" />
+    <ClInclude Include="alglib\src\diffequations.h" />
+    <ClInclude Include="alglib\src\fasttransforms.h" />
+    <ClInclude Include="alglib\src\integration.h" />
+    <ClInclude Include="alglib\src\interpolation.h" />
+    <ClInclude Include="alglib\src\linalg.h" />
+    <ClInclude Include="alglib\src\optimization.h" />
+    <ClInclude Include="alglib\src\solvers.h" />
+    <ClInclude Include="alglib\src\specialfunctions.h" />
+    <ClInclude Include="alglib\src\statistics.h" />
+    <ClInclude Include="alglib\src\stdafx.h" />
+    <ClInclude Include="API\Litecad.h" />
+    <ClInclude Include="BaseFormView.h" />
+    <ClInclude Include="CChartPowerShape.h" />
+    <ClInclude Include="CDlg2DSetting.h" />
+    <ClInclude Include="CDlgAnlogPowerCtrl.h" />
+    <ClInclude Include="CDlgGenHaipin.h" />
+    <ClInclude Include="CDlgHairpinOffset.h" />
+    <ClInclude Include="CDlgHairpinPattern.h" />
+    <ClInclude Include="CDlgHairpinSet.h" />
+    <ClInclude Include="CDlgHatchPattern.h" />
+    <ClInclude Include="CDlgInspecResluts.h" />
+    <ClInclude Include="CDlgLaserPenCW.h" />
+    <ClInclude Include="CDlgLaserPenHiddern.h" />
+    <ClInclude Include="CDlgLaserPenPulseShape.h" />
+    <ClInclude Include="CDlgLaserPrgNo.h" />
+    <ClInclude Include="CDlgLicense.h" />
+    <ClInclude Include="CDlgLogin.h" />
+    <ClInclude Include="CDlgManualScan.h" />
+    <ClInclude Include="CDlgMatrix.h" />
+    <ClInclude Include="CDlgMatrixPCC.h" />
+    <ClInclude Include="CDlgRecipeList.h" />
+    <ClInclude Include="CDlgReworkJob.h" />
+    <ClInclude Include="CDlgVScanCalib.h" />
+    <ClInclude Include="CDlgVScanCalib_ConfGrid.h" />
+    <ClInclude Include="CDlgVScanCalib_Learn.h" />
+    <ClInclude Include="CDlgVScanCalib_Scan.h" />
+    <ClInclude Include="CDlgVScanCalib_Stiching.h" />
+    <ClInclude Include="CDlgVScanPositionSet.h" />
+    <ClInclude Include="CDlgScanner.h" />
+    <ClInclude Include="CDlgWaitWork.h" />
+    <ClInclude Include="CDlgWeldPathView.h" />
+    <ClInclude Include="CEMiniSerial.h" />
+    <ClInclude Include="CGridHairpinOffset.h" />
+    <ClInclude Include="CHubiSerial.h" />
+    <ClInclude Include="CGridDIO.h" />
+    <ClInclude Include="CGridJoblist.h" />
+    <ClInclude Include="CGridLayerDia.h" />
+    <ClInclude Include="CGridPLC.h" />
+    <ClInclude Include="CGridJob.h" />
+    <ClInclude Include="CGridPowerShape.h" />
+    <ClInclude Include="CGridPulseShape.h" />
+    <ClInclude Include="CGridWeldCal.h" />
+    <ClInclude Include="ChartDirect\ChartViewer.h" />
+    <ClInclude Include="CImageMerging.h" />
+    <ClInclude Include="CJobGroup.h" />
+    <ClInclude Include="CLaserIO.h" />
+    <ClInclude Include="CLaserIOTrump.h" />
+    <ClInclude Include="CMelsecPLC.h" />
+    <ClInclude Include="ColorComboBox.h" />
+    <ClInclude Include="CPulseShape.h" />
+    <ClInclude Include="CRapidJasonWork.h" />
+    <ClInclude Include="CStaticCad.h" />
+    <ClInclude Include="CStaticCadPathView.h" />
+    <ClInclude Include="CStaticChart.h" />
+    <ClInclude Include="DlgManualWork.h" />
+    <ClInclude Include="DlgPassword.h" />
+    <ClInclude Include="EntityHatch.h" />
+    <ClInclude Include="EthernetPLC.h" />
+    <ClInclude Include="HubiLicense\Blowfish.h" />
+    <ClInclude Include="HubiLicense\DoubleBuffering.h" />
+    <ClInclude Include="HubiLicense\HubiLicenseCheck.h" />
+    <ClInclude Include="HubiLicense\Method.h" />
+    <ClInclude Include="HubiLicense\SHA.H" />
+    <ClInclude Include="ImageProcessing.h" />
+    <ClInclude Include="IWSWorkHairpin.h" />
+    <ClInclude Include="ListCtrlEx.h" />
+    <ClInclude Include="MelsecSocket.h" />
+    <ClInclude Include="MgrUser.h" />
+    <ClInclude Include="MsgHook.h" />
+    <ClInclude Include="VRSaux\FreeSrc\SxGroupBox.h" />
+    <ClInclude Include="VRSaux\GigE\GigECamera.h" />
+    <ClInclude Include="VRSaux\WorkImg.h" />
+    <ClInclude Include="WorkView.h" />
+    <ClInclude Include="DlgWorkViewer.h" />
+    <ClInclude Include="HistoryEdit.h" />
+    <ClInclude Include="LiveCCDView.h" />
+    <ClInclude Include="ConfigIWS.h" />
+    <ClInclude Include="CDlgLaserPen.h" />
+    <ClInclude Include="DlgCadRoundInput.h" />
+    <ClInclude Include="EntityRect.h" />
+    <ClInclude Include="EntitySpiral.h" />
+    <ClInclude Include="ScannerRTC5.h" />
+    <ClInclude Include="HomeView.h" />
+    <ClInclude Include="Ini.h" />
+    <ClInclude Include="IWSWork.h" />
+    <ClInclude Include="EntyEllipse.h" />
+    <ClInclude Include="EntyPoint.h" />
+    <ClInclude Include="DrawCmdView.h" />
+    <ClInclude Include="DrawPropertyView.h" />
+    <ClInclude Include="DrawView.h" />
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="EntyArc.h" />
+    <ClInclude Include="EntyCircle.h" />
+    <ClInclude Include="EntyLine.h" />
+    <ClInclude Include="EntyPolyline.h" />
+    <ClInclude Include="IWS.h" />
+    <ClInclude Include="IWSDoc.h" />
+    <ClInclude Include="IWSView.h" />
+    <ClInclude Include="IWS_define.h" />
+    <ClInclude Include="Job.h" />
+    <ClInclude Include="JobWeld.h" />
+    <ClInclude Include="JobListView.h" />
+    <ClInclude Include="LaserPen.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="PropertiesWnd.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="RibbonBarIWS.h" />
+    <ClInclude Include="Scanner.h" />
+    <ClInclude Include="ScannerRTC4.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="util\AutoEdit.h" />
+    <ClInclude Include="util\dTrace.h" />
+    <ClInclude Include="util\InfoWnd.h" />
+    <ClInclude Include="util\Label.h" />
+    <ClInclude Include="util\Led.h" />
+    <ClInclude Include="util\SplashWnd.h" />
+    <ClInclude Include="BaseDialog.h" />
+    <ClInclude Include="VRSaux\Queue.h" />
+    <ClInclude Include="VRSaux\DispImgDlg.h" />
+    <ClInclude Include="VRSaux\GrabImgDlg.h" />
+    <ClInclude Include="VRSaux\ScanImgsProc.h" />
+    <ClInclude Include="VRSaux\Utility.h" />
+    <ClInclude Include="VRSaux\VRS.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="alglib\src\alglibinternal.cpp" />
+    <ClCompile Include="alglib\src\alglibmisc.cpp" />
+    <ClCompile Include="alglib\src\ap.cpp" />
+    <ClCompile Include="alglib\src\dataanalysis.cpp" />
+    <ClCompile Include="alglib\src\diffequations.cpp" />
+    <ClCompile Include="alglib\src\fasttransforms.cpp" />
+    <ClCompile Include="alglib\src\integration.cpp" />
+    <ClCompile Include="alglib\src\interpolation.cpp" />
+    <ClCompile Include="alglib\src\linalg.cpp" />
+    <ClCompile Include="alglib\src\optimization.cpp" />
+    <ClCompile Include="alglib\src\solvers.cpp" />
+    <ClCompile Include="alglib\src\specialfunctions.cpp" />
+    <ClCompile Include="alglib\src\statistics.cpp" />
+    <ClCompile Include="API\Litecad.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="BaseFormView.cpp" />
+    <ClCompile Include="CChartPowerShape.cpp" />
+    <ClCompile Include="CDlg2DSetting.cpp" />
+    <ClCompile Include="CDlgAnlogPowerCtrl.cpp" />
+    <ClCompile Include="CDlgGenHaipin.cpp" />
+    <ClCompile Include="CDlgHairpinOffset.cpp" />
+    <ClCompile Include="CDlgHairpinPattern.cpp" />
+    <ClCompile Include="CDlgHairpinSet.cpp" />
+    <ClCompile Include="CDlgHatchPattern.cpp" />
+    <ClCompile Include="CDlgInspecResluts.cpp" />
+    <ClCompile Include="CDlgLaserPenCW.cpp" />
+    <ClCompile Include="CDlgLaserPenHiddern.cpp" />
+    <ClCompile Include="CDlgLaserPenPulseShape.cpp" />
+    <ClCompile Include="CDlgLaserPrgNo.cpp" />
+    <ClCompile Include="CDlgLicense.cpp" />
+    <ClCompile Include="CDlgLogin.cpp" />
+    <ClCompile Include="CDlgManualScan.cpp" />
+    <ClCompile Include="CDlgMatrix.cpp" />
+    <ClCompile Include="CDlgMatrixPCC.cpp" />
+    <ClCompile Include="CDlgRecipeList.cpp" />
+    <ClCompile Include="CDlgReworkJob.cpp" />
+    <ClCompile Include="CDlgVScanCalib.cpp" />
+    <ClCompile Include="CDlgVScanCalib_ConfGrid.cpp" />
+    <ClCompile Include="CDlgVScanCalib_Learn.cpp" />
+    <ClCompile Include="CDlgVScanCalib_Scan.cpp" />
+    <ClCompile Include="CDlgVScanCalib_Stiching.cpp" />
+    <ClCompile Include="CDlgVScanPositionSet.cpp" />
+    <ClCompile Include="CDlgScanner.cpp" />
+    <ClCompile Include="CDlgWaitWork.cpp" />
+    <ClCompile Include="CDlgWeldPathView.cpp" />
+    <ClCompile Include="CEMiniSerial.cpp" />
+    <ClCompile Include="CGridHairpinOffset.cpp" />
+    <ClCompile Include="CHubiSerial.cpp" />
+    <ClCompile Include="CGridDIO.cpp" />
+    <ClCompile Include="CGridJoblist.cpp" />
+    <ClCompile Include="CGridLayerDia.cpp" />
+    <ClCompile Include="CGridPLC.cpp" />
+    <ClCompile Include="CGridJob.cpp" />
+    <ClCompile Include="CGridPowerShape.cpp" />
+    <ClCompile Include="CGridPulseShape.cpp" />
+    <ClCompile Include="CGridWeldCal.cpp" />
+    <ClCompile Include="ChartDirect\ChartViewer.cpp" />
+    <ClCompile Include="CImageMerging.cpp" />
+    <ClCompile Include="CJobGroup.cpp" />
+    <ClCompile Include="CLaserIO.cpp" />
+    <ClCompile Include="CLaserIOTrump.cpp" />
+    <ClCompile Include="CMelsecPLC.cpp" />
+    <ClCompile Include="ColorComboBox.cpp" />
+    <ClCompile Include="CPulseShape.cpp" />
+    <ClCompile Include="CRapidJasonWork.cpp" />
+    <ClCompile Include="CStaticCad.cpp" />
+    <ClCompile Include="CStaticCadPathView.cpp" />
+    <ClCompile Include="CStaticChart.cpp" />
+    <ClCompile Include="DlgManualWork.cpp" />
+    <ClCompile Include="DlgPassword.cpp" />
+    <ClCompile Include="EntityHatch.cpp" />
+    <ClCompile Include="EthernetPLC.cpp" />
+    <ClCompile Include="HubiLicense\BlowFish.cpp" />
+    <ClCompile Include="HubiLicense\DoubleBuffering.cpp" />
+    <ClCompile Include="HubiLicense\HubiLicenseCheck.cpp" />
+    <ClCompile Include="HubiLicense\Method.cpp" />
+    <ClCompile Include="HubiLicense\SHA.CPP" />
+    <ClCompile Include="ImageProcessing.cpp" />
+    <ClCompile Include="IWSWorkHairpin.cpp" />
+    <ClCompile Include="ListCtrlEx.cpp" />
+    <ClCompile Include="MelsecSocket.cpp" />
+    <ClCompile Include="MgrUser.cpp" />
+    <ClCompile Include="MsgHook.cpp" />
+    <ClCompile Include="VRSaux\FreeSrc\SxGroupBox.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="VRSaux\GigE\GigECamera.cpp" />
+    <ClCompile Include="VRSaux\WorkImg.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="WorkView.cpp" />
+    <ClCompile Include="DlgWorkViewer.cpp" />
+    <ClCompile Include="HistoryEdit.cpp" />
+    <ClCompile Include="LiveCCDView.cpp" />
+    <ClCompile Include="ConfigIWS.cpp" />
+    <ClCompile Include="CDlgLaserPen.cpp" />
+    <ClCompile Include="DlgCadRoundInput.cpp" />
+    <ClCompile Include="EntityRect.cpp" />
+    <ClCompile Include="EntitySpiral.cpp" />
+    <ClCompile Include="ScannerRTC5.cpp" />
+    <ClCompile Include="HomeView.cpp" />
+    <ClCompile Include="Ini.cpp" />
+    <ClCompile Include="IWSWork.cpp" />
+    <ClCompile Include="EntyEllipse.cpp" />
+    <ClCompile Include="EntyPoint.cpp" />
+    <ClCompile Include="Job.cpp" />
+    <ClCompile Include="JobWeld.cpp" />
+    <ClCompile Include="DrawCmdView.cpp" />
+    <ClCompile Include="DrawPropertyView.cpp" />
+    <ClCompile Include="DrawView.cpp" />
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="EntyArc.cpp" />
+    <ClCompile Include="EntyCircle.cpp" />
+    <ClCompile Include="EntyLine.cpp" />
+    <ClCompile Include="EntyPolyline.cpp" />
+    <ClCompile Include="IWS.cpp" />
+    <ClCompile Include="IWSDoc.cpp" />
+    <ClCompile Include="IWSView.cpp" />
+    <ClCompile Include="JobListView.cpp" />
+    <ClCompile Include="LaserPen.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="PropertiesWnd.cpp" />
+    <ClCompile Include="RibbonBarIWS.cpp" />
+    <ClCompile Include="Scanner.cpp" />
+    <ClCompile Include="ScannerRTC4.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="util\AutoEdit.cpp" />
+    <ClCompile Include="util\dTrace.cpp" />
+    <ClCompile Include="util\InfoWnd.cpp" />
+    <ClCompile Include="util\Label.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="util\Led.cpp" />
+    <ClCompile Include="util\SplashWnd.cpp" />
+    <ClCompile Include="BaseDialog.cpp" />
+    <ClCompile Include="VRSaux\Queue.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="VRSaux\DispImgDlg.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="VRSaux\GrabImgDlg.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="VRSaux\ScanImgsProc.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <ClCompile Include="VRSaux\Utility.cpp">
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeaderFile Condition="'$(Configuration)|$(Platform)'=='Release|x64'">../stdafx.h</PrecompiledHeaderFile>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="IWS.reg" />
+    <None Include="res\IWS.rc2" />
+    <None Include="res\ribbon.mfcribbon-ms" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="IWS.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\..\..\..\101. Image\login.bmp" />
+    <Image Include="..\..\..\1. 프로젝트 Source\101. Image\start.png" />
+    <Image Include="res\bitmap1.bmp" />
+    <Image Include="res\bitmap2.bmp" />
+    <Image Include="res\bitmap_TITLE.bmp" />
+    <Image Include="res\buttons.bmp" />
+    <Image Include="res\classview.bmp" />
+    <Image Include="res\classview_hc.bmp" />
+    <Image Include="res\class_view.ico" />
+    <Image Include="res\class_view_hc.ico" />
+    <Image Include="res\down.ico" />
+    <Image Include="res\downFast.ico" />
+    <Image Include="res\draw_small.bmp" />
+    <Image Include="res\explorer.bmp" />
+    <Image Include="res\explorer_hc.bmp" />
+    <Image Include="res\filelarge.bmp" />
+    <Image Include="res\filesmall.bmp" />
+    <Image Include="res\fileview.bmp" />
+    <Image Include="res\fileview_hc.bmp" />
+    <Image Include="res\file_view.ico" />
+    <Image Include="res\file_view_hc.ico" />
+    <Image Include="res\hairpin.bmp" />
+    <Image Include="res\IWS.ico" />
+    <Image Include="res\IWSDoc.ico" />
+    <Image Include="res\left.ico" />
+    <Image Include="res\leftFast.ico" />
+    <Image Include="res\main.bmp" />
+    <Image Include="res\menuimages.bmp" />
+    <Image Include="res\menuimages_hc.bmp" />
+    <Image Include="res\output_wnd.ico" />
+    <Image Include="res\output_wnd_hc.ico" />
+    <Image Include="res\properties.bmp" />
+    <Image Include="res\properties_hc.bmp" />
+    <Image Include="res\properties_wnd.ico" />
+    <Image Include="res\properties_wnd_hc.ico" />
+    <Image Include="res\ribbonBar.bmp" />
+    <Image Include="res\ribbonBar_home.bmp" />
+    <Image Include="res\right.ico" />
+    <Image Include="res\rightFast.ico" />
+    <Image Include="res\sort.bmp" />
+    <Image Include="res\sort_hc.bmp" />
+    <Image Include="res\Splash.bmp" />
+    <Image Include="res\start.bmp" />
+    <Image Include="res\stop.bmp" />
+    <Image Include="res\Toolbar.bmp" />
+    <Image Include="res\Toolbar256.bmp" />
+    <Image Include="res\up.ico" />
+    <Image Include="res\upFast.ico" />
+    <Image Include="res\writelarge.bmp" />
+    <Image Include="res\writesmall.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="alglib\addons-mkl\alglib3131_64mkl.lib" />
+    <Library Include="alglib\mkl-windows\mkl4alglib_64.lib" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties RESOURCE_FILE="IWS.rc" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

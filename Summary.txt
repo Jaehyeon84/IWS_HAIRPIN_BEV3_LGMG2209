@@ -1,0 +1,10 @@
+IWS_HAIRPIN_BEV3(LGMG2203) 기반 
+Wiki / Project Information
+IWS_HAIRPIN_BEV3(LGMG2203) 기반
+< 1차 용접기 >
+LGMG2209 BEV3 멕시코向 스테이터 하부, 상부 용접기(하부 5대, 상부 2대)
+2DVision 검사 기능 추가를 위해 분리(LGMG2209만 적용)
+LGMG2209 내용 모두 이전
+Huvision(후검사 SW) : 일부 PLC Map 변경
+MIS(MES Interface System) : 멕시코에서 신규 개발, XML -> JSON으로 변경
+(이후, LG마그나 모든라인은 JSON 적용)

@@ -1,0 +1,26 @@
+[N:20230801 17:21:14.593] [00001] InteliWeldSystem started=======================================
+[N:20230801 17:21:23.247] [00001] Initializing Inteli Weld System : start
+[E:20230801 17:21:23.763] [00001] Failed to open the scanner controller
+[N:20230801 17:21:23.763] [00001] Initializing Inteli Weld System : end
+[N:20230801 17:21:44.872] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20230801 17:21:44.876] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20230801 17:21:45.920] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20230801 17:21:45.920] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20230801 17:21:45.920] [00001] Scanner power alarm = [-858993460].
+[E:20230801 17:21:45.920] [00001] Scanner temperature alarm = [-858993460].
+[N:20230801 17:21:52.521] [00001] Initializing Inteli Weld System : end
+[N:20230801 17:22:25.020] [00000] Offline Mode
+[N:20230801 17:22:26.824] [00000] Log On : Administrator
+[N:20230801 17:22:51.257] [00001] InteliWeldSystem started=======================================
+[N:20230801 17:23:32.856] [00001] Initializing Inteli Weld System : start
+[E:20230801 17:23:33.426] [00001] Failed to open the scanner controller
+[N:20230801 17:23:33.426] [00001] Initializing Inteli Weld System : end
+[N:20230801 17:23:54.534] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20230801 17:23:54.538] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20230801 17:23:55.579] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20230801 17:23:55.579] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20230801 17:23:55.579] [00001] Scanner power alarm = [-858993460].
+[E:20230801 17:23:55.579] [00001] Scanner temperature alarm = [-858993460].
+[N:20230801 17:23:57.437] [00001] Initializing Inteli Weld System : end
+[N:20230801 17:24:10.265] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230801 17:24:11.271] [00001] IWS exit!======================================================

@@ -1,0 +1,18 @@
+{
+  "EPDS_R": {
+    "TID": "",
+    "WOID": "474978725",
+    "ORGID": "360245",
+    "LINEID": "MXPM-01-005",
+    "EQPID": "MXPM-01MLQI088",
+    "PROCID": "EVZS20090",
+    "SETID": "BSLR230381005024051949",
+    "MODEL": {
+      "ID": "",
+      "NAME": "",
+      "SUFFIX": ""
+    },
+    "ACK": "0",
+    "REASON": ""
+  }
+}

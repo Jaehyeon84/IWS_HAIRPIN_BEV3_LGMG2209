@@ -1,0 +1,28 @@
+[N:20230802 14:45:31.974] [00001] InteliWeldSystem started=======================================
+[N:20230802 14:45:35.234] [00001] Initializing Inteli Weld System : start
+[E:20230802 14:45:35.756] [00001] Failed to open the scanner controller
+[N:20230802 14:45:35.756] [00001] Initializing Inteli Weld System : end
+[N:20230802 14:45:56.860] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20230802 14:45:56.866] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20230802 14:45:57.888] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20230802 14:45:57.888] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20230802 14:45:57.888] [00001] Scanner power alarm = [-858993460].
+[E:20230802 14:45:57.888] [00001] Scanner temperature alarm = [-858993460].
+[N:20230802 14:45:59.380] [00001] Initializing Inteli Weld System : end
+[N:20230802 14:46:03.014] [00000] Log On : Administrator
+[N:20230802 14:48:21.106] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230802 14:48:22.110] [00001] IWS exit!======================================================
+[N:20230802 14:48:36.373] [00001] InteliWeldSystem started=======================================
+[N:20230802 14:48:39.677] [00001] Initializing Inteli Weld System : start
+[E:20230802 14:48:40.394] [00001] Failed to open the scanner controller
+[N:20230802 14:48:40.394] [00001] Initializing Inteli Weld System : end
+[N:20230802 14:49:01.503] [09999] PLC Connect Error(IP : 192.168.3.2, port : 8100)
+[N:20230802 14:49:01.505] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[W:20230802 14:49:02.526] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20230802 14:49:02.526] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20230802 14:49:02.526] [00001] Scanner power alarm = [-858993460].
+[E:20230802 14:49:02.526] [00001] Scanner temperature alarm = [-858993460].
+[N:20230802 14:49:03.626] [00001] Initializing Inteli Weld System : end
+[N:20230802 14:49:08.208] [00000] Log On : Administrator
+[N:20230802 15:06:14.850] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230802 15:06:15.853] [00001] IWS exit!======================================================

@@ -1,0 +1,10 @@
+[N:20230811 13:32:19.525] [00000] Offline Mode
+[N:20230811 13:32:20.888] [00000] Log On : Administrator
+[N:20230811 13:34:09.018] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230811 13:34:09.128] [00001] Work file load as Normal works
+[N:20230811 13:34:09.144] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230811 13:34:15.967] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230811 13:34:16.050] [00001] Work file load as Normal works
+[N:20230811 13:34:16.060] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230811 13:34:18.789] [00001] Hairpin Pattern has been canceled.
+[N:20230811 13:34:18.789] [00001] 1St Pattern Length has been changed. [0.4000] -> [0.4000]

@@ -1,0 +1,17 @@
+[N:20220907 10:40:25.499] [00001] InteliWeldSystem started=======================================
+[N:20220907 10:40:28.252] [00001] Initializing Inteli Weld System : start
+[E:20220907 10:40:28.961] [00001] Failed to open the scanner controller
+[N:20220907 10:40:28.961] [00001] Initializing Inteli Weld System : end
+[E:20220907 10:40:50.095] [01000] PLC Data Socket Connection Error !!!
+[W:20220907 10:40:51.193] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20220907 10:40:51.193] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20220907 10:40:51.193] [00001] Scanner power alarm = [-858993460].
+[E:20220907 10:40:51.193] [00001] Scanner temperature alarm = [-858993460].
+[N:20220907 10:40:52.785] [00001] Initializing Inteli Weld System : end
+[N:20220907 10:40:54.504] [00000] Offline Mode
+[N:20220907 10:40:56.534] [00000] Log On : Administrator
+[N:20220907 10:41:50.459] [00001] 1St Pattern Length has been changed. [0.7000] -> [0.7000]
+[N:20220907 10:41:50.550] [00001] 2St Pattern WeldShape has been changed. [Zigzag] -> [Ellipse]
+[N:20220907 10:42:44.581] [00001] Open Work File : C:\Users\ADMIN\Desktop\IWS_HAIRPIN(2022.09.06)_dual_camera\bin\Work\FORD2nd_01.wrk
+[E:20220907 10:42:44.589] [00001] Work file load as Normal works
+[N:20220907 10:42:44.594] [00001] Open Done Work File : C:\Users\ADMIN\Desktop\IWS_HAIRPIN(2022.09.06)_dual_camera\bin\Work\FORD2nd_01.wrk

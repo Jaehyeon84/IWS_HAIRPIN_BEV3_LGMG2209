@@ -1,0 +1,18 @@
+{
+  "EPDS_R": {
+    "TID": "",
+    "WOID": "527667933",
+    "ORGID": "360245",
+    "LINEID": "MXPM-01-005",
+    "EQPID": "Equipment ID",
+    "PROCID": "Process ID",
+    "SETID": "7SLR241311007724054340",
+    "MODEL": {
+      "ID": "SPGM263G3C3",
+      "NAME": "SPGM263G3C3",
+      "SUFFIX": "BM1CM3N"
+    },
+    "ACK": "0",
+    "REASON": ""
+  }
+}

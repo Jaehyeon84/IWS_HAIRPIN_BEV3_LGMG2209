@@ -1,0 +1,22 @@
+[N:20220906 14:06:13.000] [00001] InteliWeldSystem started=======================================
+[N:20220906 14:06:16.351] [00001] Initializing Inteli Weld System : start
+[E:20220906 14:06:17.324] [00001] Failed to open the scanner controller
+[N:20220906 14:06:17.324] [00001] Initializing Inteli Weld System : end
+[W:20220906 14:06:39.555] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20220906 14:06:39.555] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20220906 14:06:39.555] [00001] Scanner power alarm = [-858993460].
+[E:20220906 14:06:39.555] [00001] Scanner temperature alarm = [-858993460].
+[N:20220906 14:06:41.236] [00001] Initializing Inteli Weld System : end
+[N:20220906 14:06:42.903] [00000] Offline Mode
+[N:20220906 16:52:51.283] [00001] InteliWeldSystem started=======================================
+[N:20220906 16:52:54.176] [00001] Initializing Inteli Weld System : start
+[E:20220906 16:52:55.103] [00001] Failed to open the scanner controller
+[N:20220906 16:52:55.103] [00001] Initializing Inteli Weld System : end
+[E:20220906 16:53:16.234] [01000] PLC Data Socket Connection Error !!!
+[W:20220906 16:53:17.315] [00001] Scanner Pos Ack X Warning = [-858993460]
+[W:20220906 16:53:17.315] [00001] Scanner Pos Ack Y Warning = [-858993460]
+[E:20220906 16:53:17.315] [00001] Scanner power alarm = [-858993460].
+[E:20220906 16:53:17.315] [00001] Scanner temperature alarm = [-858993460].
+[N:20220906 16:53:18.865] [00001] Initializing Inteli Weld System : end
+[N:20220906 16:53:20.602] [00000] Offline Mode
+[N:20220906 16:53:22.289] [00000] Log On : Administrator

@@ -1,0 +1,17 @@
+Argument cnt:3
+strINI_FileName:\WeldAfterInspect.ini
+Model No:0
+UseDL:1
+UseSaveDLImage:0
+UseSaveBSImage:0
+DLPreProcessMinPixelCount:300
+UseArea:0
+UseType6:0
+UsePinHeightDiff:0
+UseBeadWidth:1
+UseCircularity:0
+UseFilterNo:1
+UseReconstruction:1
+UseKeepingOK:0
+UseForcedOK:0
+ImageSavePath:D:\1. Work\1. Project\5. 2020\5. BEV3\1. Source\HuVision\HuVision\bin\Release\HubisData_0813\

@@ -1,0 +1,7 @@
+# number of class labels
+3
+# definition of class labels
+# OK:0 정상용접; NG1:1 미용접, NG2:2 약용접
+OK
+NG1
+NG2

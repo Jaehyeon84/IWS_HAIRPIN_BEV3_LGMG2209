@@ -1,0 +1,2406 @@
+[N:20230901 10:30:27.903] [00001] Initialize Request
+[N:20230901 10:30:28.054] [00001] Initialize Response
+[N:20230901 10:30:28.054] [00001] Time Sync Request
+[N:20230901 10:30:28.054] [00001] Set Local Time by PLC : 2023-09-01 10:30:49
+[N:20230901 10:30:28.238] [00001] Time Sync Response
+[N:20230901 11:14:34.134] [00001] Receiveed inspection Request From PLC
+[N:20230901 11:14:34.138] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 11:14:34.228] [00001] Work file load as Normal works
+[N:20230901 11:14:34.240] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 11:14:34.242] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:14:34.242] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:14:34.584] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:14:34.592] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:14:34.598] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:14:34.604] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:14:34.610] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:14:34.634] [00001] Update3DPosition Complete
+[N:20230901 11:14:34.840] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:14:34.840] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:35.352] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:14:35.352] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:35.534] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:14:35.534] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:36.043] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:36.045] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:14:36.594] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:14:36.594] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:37.102] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:14:37.108] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:37.301] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:14:37.301] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:37.809] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:37.811] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:14:37.989] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:14:37.989] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:14:38.502] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:14:38.508] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:15:13.210] [00000] Offline Mode
+[N:20230901 11:15:14.649] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:15:14.649] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:15:14.949] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:15:14.957] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:15:14.963] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:15:14.971] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:15:14.977] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:15:15.497] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 11:15:35.044] [00777] Merging Start
+[N:20230901 11:15:35.044] [00777] Merging UseCalibration
+[N:20230901 11:15:35.044] [00777] Merging UseCalibration
+[N:20230901 11:15:38.387] [09999] EVENT_WORK_VSCAN
+[N:20230901 11:15:43.831] [00000] Log On : Administrator
+[N:20230901 11:17:54.770] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 11:18:14.318] [00777] Merging Start
+[N:20230901 11:18:14.318] [00777] Merging UseCalibration
+[N:20230901 11:18:14.318] [00777] Merging UseCalibration
+[N:20230901 11:18:17.610] [09999] EVENT_WORK_VSCAN
+[N:20230901 11:18:21.525] [00000] Log Out : Operator
+[N:20230901 11:18:23.230] [00000] Log On : Administrator
+[N:20230901 11:19:00.508] [00000] Online Mode
+[N:20230901 11:19:03.601] [00001] Initialize Request
+[N:20230901 11:19:03.790] [00001] Initialize Response
+[N:20230901 11:19:03.790] [00001] Time Sync Request
+[N:20230901 11:19:03.790] [00001] Set Local Time by PLC : 2023-09-01 11:19:25
+[N:20230901 11:19:04.010] [00001] Time Sync Response
+[N:20230901 11:19:17.128] [00001] Receiveed inspection Request From PLC
+[N:20230901 11:19:17.128] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 11:19:17.218] [00001] Work file load as Normal works
+[N:20230901 11:19:17.234] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 11:19:17.238] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:19:17.238] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:19:17.488] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:19:17.496] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:19:17.502] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:19:17.508] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:19:17.514] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:19:17.538] [00001] Update3DPosition Complete
+[N:20230901 11:19:17.926] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:17.926] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:18.442] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:18.444] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:18.644] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:18.644] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:19.156] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:19.162] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:19.691] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:19.691] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:20.198] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:20.204] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:20.386] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:20.386] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:20.898] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:20.900] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:21.082] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:21.082] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:21.594] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:21.596] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:22.176] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:22.176] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:22.686] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:22.686] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:22.870] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:22.870] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:23.380] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:23.382] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:23.558] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:23.558] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:24.066] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:24.070] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:24.670] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:24.670] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:25.176] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:25.184] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:25.334] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:25.334] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:25.840] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:25.842] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:26.026] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:26.026] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:26.544] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:26.544] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:27.122] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:27.122] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:27.630] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:27.630] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:27.810] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:27.810] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:28.321] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:28.321] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:28.499] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:28.499] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:29.009] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:29.013] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:29.626] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:29.626] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:30.142] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:30.144] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:30.332] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:30.332] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:30.846] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:30.848] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:31.008] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:31.008] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:31.515] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:31.521] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:32.043] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:32.043] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:32.555] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:32.555] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:32.757] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:32.757] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:33.265] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:33.269] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:33.427] [09999] !!! Reconnect PLC !!!
+[N:20230901 11:19:33.427] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:33.938] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 11:19:33.940] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 11:19:41.011] [00001] Start Weld
+[N:20230901 11:19:41.011] [00001] Job start
+[N:20230901 11:19:41.011] [00001] WORKMODE - Weld Mode
+[N:20230901 11:20:55.024] [00001] Job end , tact time = 74.013 sec
+[N:20230901 11:21:20.468] [00001] Receiveed inspection Request From PLC
+[N:20230901 11:21:20.468] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 11:21:20.556] [00001] Work file load as Normal works
+[N:20230901 11:21:20.566] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 11:21:20.568] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:21:20.568] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:21:20.872] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:21:20.880] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:21:20.886] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:21:20.892] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:21:20.898] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:21:20.904] [00001] [N:20230901 11:21:20.968] [00001] Update3DPosition Complete
+[N:20230901 11:21:36.238] [00001] Start Repair Weld
+[N:20230901 11:21:36.238] [00001] Job start
+[N:20230901 11:21:36.238] [00001] WORKMODE - Weld Mode
+[N:20230901 11:21:37.030] [00001] Job end , tact time = 0.792 sec
+[N:20230901 11:31:05.017] [00001] Receiveed inspection Request From PLC
+[N:20230901 11:31:05.017] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 11:31:05.107] [00001] Work file load as Normal works
+[N:20230901 11:31:05.115] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 11:31:05.117] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:31:05.117] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:31:05.419] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:31:05.427] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:31:05.433] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:31:05.439] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:31:05.445] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:31:05.467] [00001] Update3DPosition Complete
+[N:20230901 11:31:09.050] [00000] Offline Mode
+[N:20230901 11:31:10.289] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:31:10.289] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:31:10.681] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:31:10.689] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:31:10.695] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:31:10.701] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:31:10.707] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:31:11.039] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 11:31:30.532] [00777] Merging Start
+[N:20230901 11:31:30.532] [00777] Merging UseCalibration
+[N:20230901 11:31:30.532] [00777] Merging UseCalibration
+[N:20230901 11:31:33.863] [09999] EVENT_WORK_VSCAN
+[N:20230901 11:32:09.897] [00000] Log On : Administrator
+[N:20230901 11:35:29.047] [00001] Job start
+[N:20230901 11:35:29.047] [00001] WORKMODE - Weld Mode
+[W:20230901 11:35:35.834] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 11:36:26.483] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 11:36:42.222] [00001] Job end , tact time = 73.175 sec
+[N:20230901 11:36:50.095] [00000] Online Mode
+[N:20230901 11:36:53.601] [00001] Initialize Request
+[N:20230901 11:36:53.801] [00001] Initialize Response
+[N:20230901 11:36:53.801] [00001] Time Sync Request
+[N:20230901 11:36:53.801] [00001] Set Local Time by PLC : 2023-09-01 11:37:15
+[N:20230901 11:36:53.967] [00001] Time Sync Response
+[N:20230901 11:42:15.426] [00000] Offline Mode
+[N:20230901 11:42:16.472] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:42:16.472] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:42:16.802] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:42:16.810] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:42:16.816] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:42:16.822] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:42:16.828] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:42:17.634] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 11:42:37.117] [00777] Merging Start
+[N:20230901 11:42:37.117] [00777] Merging UseCalibration
+[N:20230901 11:42:37.117] [00777] Merging UseCalibration
+[N:20230901 11:42:40.451] [09999] EVENT_WORK_VSCAN
+[N:20230901 11:43:27.646] [00000] Log On : Administrator
+[N:20230901 11:44:31.649] [00000] Online Mode
+[N:20230901 11:44:40.813] [00000] Online Mode
+[N:20230901 11:44:44.245] [00000] Offline Mode
+[N:20230901 11:44:53.241] [00000] Online Mode
+[N:20230901 11:44:55.710] [00001] Initialize Request
+[N:20230901 11:44:55.872] [00001] Initialize Response
+[N:20230901 11:44:55.872] [00001] Time Sync Request
+[N:20230901 11:44:55.872] [00001] Set Local Time by PLC : 2023-09-01 11:45:17
+[N:20230901 11:44:56.056] [00001] Time Sync Response
+[N:20230901 11:45:06.425] [00001] Receiveed inspection Request From PLC
+[N:20230901 11:45:06.425] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 11:45:06.517] [00001] Work file load as Normal works
+[N:20230901 11:45:06.531] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 11:45:06.533] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 11:45:06.533] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 11:45:06.843] [00001] Update3DPosition RCP No: 2
+[N:20230901 11:45:06.851] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 11:45:06.857] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 11:45:06.863] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 11:45:06.869] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 11:45:06.891] [00001] Update3DPosition Complete
+[N:20230901 11:45:15.373] [00001] Start Weld
+[N:20230901 11:45:15.373] [00001] Job start
+[N:20230901 11:45:15.373] [00001] WORKMODE - Weld Mode
+[W:20230901 11:45:20.706] [00001] Scanner Pos Ack Y Warning = [0]
+[W:20230901 11:45:53.720] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 11:46:28.197] [00001] Job end , tact time = 72.824 sec
+[N:20230901 11:47:35.675] [00001] Initialize Request
+[N:20230901 11:47:35.837] [00001] Initialize Response
+[N:20230901 11:47:35.837] [00001] Time Sync Request
+[N:20230901 11:47:35.837] [00001] Set Local Time by PLC : 2023-09-01 11:47:57
+[N:20230901 11:47:36.067] [00001] Time Sync Response
+[N:20230901 11:48:01.338] [00001] Initialize Request
+[N:20230901 11:48:01.538] [00001] Initialize Response
+[N:20230901 11:48:01.538] [00001] Time Sync Request
+[N:20230901 11:48:01.538] [00001] Set Local Time by PLC : 2023-09-01 11:48:23
+[N:20230901 11:48:01.694] [00001] Time Sync Response
+[N:20230901 12:46:15.738] [00001] Receiveed inspection Request From PLC
+[N:20230901 12:46:15.738] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 12:46:15.824] [00001] Work file load as Normal works
+[N:20230901 12:46:15.834] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 12:46:15.836] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 12:46:15.836] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 12:46:16.126] [00001] Update3DPosition RCP No: 2
+[N:20230901 12:46:16.134] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 12:46:16.140] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 12:46:16.146] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 12:46:16.152] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 12:46:16.176] [00001] Update3DPosition Complete
+[N:20230901 12:46:16.532] [09999] !!! Reconnect PLC !!!
+[N:20230901 12:46:16.532] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:17.042] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 12:46:17.044] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:17.250] [09999] !!! Reconnect PLC !!!
+[N:20230901 12:46:17.250] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:17.756] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 12:46:17.760] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:18.316] [09999] !!! Reconnect PLC !!!
+[N:20230901 12:46:18.316] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:18.822] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 12:46:18.826] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 12:46:19.646] [00000] Offline Mode
+[N:20230901 12:46:22.116] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 12:46:22.116] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 12:46:22.456] [00001] Update3DPosition RCP No: 2
+[N:20230901 12:46:22.464] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 12:46:22.470] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 12:46:22.476] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 12:46:22.482] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 12:46:23.164] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 12:46:42.586] [00777] Merging Start
+[N:20230901 12:46:42.586] [00777] Merging UseCalibration
+[N:20230901 12:46:42.586] [00777] Merging UseCalibration
+[N:20230901 12:46:45.957] [09999] EVENT_WORK_VSCAN
+[N:20230901 12:48:02.998] [00000] Log On : Administrator
+[N:20230901 12:49:59.897] [00001] Job start
+[N:20230901 12:49:59.897] [00001] WORKMODE - Weld Mode
+[W:20230901 12:49:59.941] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 12:50:25.561] [00001] Scanner Pos Ack Y Warning = [0]
+[W:20230901 12:50:44.351] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 12:51:13.665] [00001] Job end , tact time = 73.769 sec
+[N:20230901 12:51:53.371] [00000] Online Mode
+[N:20230901 12:52:01.411] [00001] Start Weld
+[N:20230901 12:52:01.411] [00001] Job start
+[N:20230901 12:52:01.411] [00001] WORKMODE - Weld Mode
+[N:20230901 12:52:12.421] [00001] Job end , tact time = 11.009 sec
+[N:20230901 12:52:37.693] [00001] Receiveed inspection Request From PLC
+[N:20230901 12:52:37.693] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 12:52:37.787] [00001] Work file load as Normal works
+[N:20230901 12:52:37.803] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 12:52:37.805] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 12:52:37.805] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 12:52:38.123] [00001] Update3DPosition RCP No: 2
+[N:20230901 12:52:38.129] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 12:52:38.137] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 12:52:38.143] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 12:52:38.149] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 12:52:38.155] [00001] [N:20230901 12:52:38.235] [00001] Update3DPosition Complete
+[N:20230901 12:53:16.106] [00001] Initialize Request
+[N:20230901 12:53:16.300] [00001] Initialize Response
+[N:20230901 12:53:16.300] [00001] Time Sync Request
+[N:20230901 12:53:16.300] [00001] Set Local Time by PLC : 2023-09-01 12:53:38
+[N:20230901 12:53:16.478] [00001] Time Sync Response
+[N:20230901 13:02:11.985] [00001] Receiveed inspection Request From PLC
+[N:20230901 13:02:11.985] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:02:12.075] [00001] Work file load as Normal works
+[N:20230901 13:02:12.083] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:02:12.087] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:02:12.087] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:02:12.447] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:02:12.455] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:02:12.461] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:02:12.469] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:02:12.475] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:02:12.497] [00001] Update3DPosition Complete
+[N:20230901 13:02:12.747] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:12.747] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:13.215] [00000] Offline Mode
+[N:20230901 13:02:13.259] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:13.261] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:13.483] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:13.483] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:13.995] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:13.995] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:14.547] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:14.547] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:15.007] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:02:15.007] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:02:15.007] [09999] PLC Data Connection Try !!!
+[N:20230901 13:02:15.009] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:15.057] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:15.417] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:02:15.425] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:02:15.431] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:02:15.437] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:02:15.443] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:02:16.001] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 13:02:16.567] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:16.731] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:16.731] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:17.243] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:18.744] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:18.942] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:18.942] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:19.449] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:20.968] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:21.150] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:21.150] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:21.661] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:23.177] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:23.343] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:23.343] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:23.853] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:25.373] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:25.557] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:25.557] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:26.067] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:27.585] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:27.802] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:27.802] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:28.314] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:29.820] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:30.023] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:30.023] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:30.535] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:32.057] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:32.264] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:32.264] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:32.773] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:34.293] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:34.465] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:34.465] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:34.975] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:35.385] [00777] Merging Start
+[N:20230901 13:02:35.385] [00777] Merging UseCalibration
+[N:20230901 13:02:35.385] [00777] Merging UseCalibration
+[N:20230901 13:02:36.488] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:36.672] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:36.672] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:37.180] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:38.692] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:38.750] [09999] EVENT_WORK_VSCAN
+[N:20230901 13:02:38.884] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:38.884] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:39.394] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:40.901] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:41.109] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:41.109] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:41.621] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:43.138] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:43.284] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:43.284] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:43.796] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:45.303] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:45.503] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:45.503] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:46.014] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:47.528] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:47.681] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:47.681] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:48.191] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:49.705] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:49.894] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:49.894] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:50.401] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:51.909] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:52.086] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:52.086] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:52.595] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:54.107] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:54.283] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:54.283] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:54.795] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:56.308] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:56.482] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:56.482] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:56.987] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:58.510] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:02:58.736] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:02:58.736] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:02:59.248] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:00.760] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:00.937] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:00.937] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:01.448] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:02.964] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:03.151] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:03.151] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:03.658] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:05.175] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:05.348] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:05.348] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:05.859] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:07.362] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:07.561] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:07.561] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:08.071] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:09.582] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:09.777] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:09.777] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:10.286] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:11.792] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:11.974] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:11.974] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:12.487] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:13.991] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:14.181] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:14.181] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:14.690] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:16.208] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:16.384] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:16.384] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:16.899] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:18.398] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:18.574] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:18.574] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:19.084] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:20.590] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:20.788] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:20.788] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:21.297] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:22.806] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:22.978] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:22.978] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:23.486] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:25.000] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:25.186] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:25.186] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:25.577] [00000] Online Mode
+[N:20230901 13:03:25.693] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:27.209] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:27.407] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:27.407] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:27.917] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:29.419] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:29.597] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:29.597] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:30.107] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:31.621] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:31.815] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:31.815] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:32.327] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:33.843] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:34.017] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:34.017] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:34.526] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:36.038] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:36.276] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:36.276] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:36.790] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:38.300] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:38.466] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:38.466] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:38.979] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:40.488] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:40.670] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:40.670] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:41.184] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:42.700] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:42.906] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:42.906] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:43.416] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:44.931] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:45.091] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:45.091] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:45.603] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:46.057] [00000] Offline Mode
+[N:20230901 13:03:47.111] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:47.301] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:47.301] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:47.813] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:49.329] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:49.515] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:49.515] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:50.024] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:51.531] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:51.693] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:51.693] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:52.205] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:53.720] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:53.886] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:53.886] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:54.398] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:55.903] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:56.061] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:56.061] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:56.573] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:58.085] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:03:58.271] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:03:58.271] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:03:58.780] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:00.287] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:00.450] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:00.450] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:00.958] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:01.505] [00000] Online Mode
+[N:20230901 13:04:02.467] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:02.663] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:02.663] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:03.175] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:04.690] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:04.852] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:04.852] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:05.360] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:06.872] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:07.080] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:07.080] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:07.590] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:09.100] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:09.310] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:09.310] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:09.826] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:11.341] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:11.505] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:11.505] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:12.020] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:13.529] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:13.706] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:13.706] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:14.216] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:15.732] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:15.929] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:15.929] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:16.441] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:17.951] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:18.100] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:18.100] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:18.616] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:20.128] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:20.328] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:20.328] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:20.838] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:22.350] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:22.508] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:22.508] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:23.023] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:24.522] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:24.724] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:24.724] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:25.234] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:26.750] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:26.848] [00000] Offline Mode
+[N:20230901 13:04:26.956] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:26.956] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:27.469] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:28.980] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:29.162] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:29.162] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:29.673] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:31.192] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:31.392] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:31.392] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:31.902] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:33.416] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:33.583] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:33.583] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:34.090] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:35.608] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:35.792] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:35.792] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:36.304] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:37.822] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:37.986] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:37.986] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:38.496] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:40.004] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:40.188] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:40.188] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:40.264] [00000] Online Mode
+[N:20230901 13:04:40.698] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:42.212] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:42.415] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:42.415] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:42.926] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:44.446] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:44.632] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:44.632] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:45.146] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:46.655] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:46.824] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:46.824] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:47.338] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:48.851] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:49.044] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:49.044] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:49.557] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:51.063] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:51.244] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:51.244] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:51.754] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:53.266] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:53.454] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:53.454] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:53.962] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:55.488] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:55.684] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:55.684] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:56.196] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:57.720] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:04:57.910] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:04:57.910] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:58.419] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:04:59.932] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:00.134] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:00.134] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:00.646] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:02.153] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:02.329] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:02.329] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:02.841] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:04.351] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:04.565] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:04.565] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:05.074] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:06.580] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:06.768] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:06.768] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:07.276] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:08.787] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:08.970] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:08.970] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:09.478] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:11.000] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:11.197] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:11.197] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:11.708] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:13.222] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:13.436] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:13.436] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:13.944] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:15.461] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:15.643] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:15.643] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:16.159] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:17.669] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:17.837] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:17.837] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:18.349] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:19.865] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:20.037] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:20.037] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:20.549] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:22.066] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:22.237] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:22.237] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:22.747] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:24.262] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:24.446] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:24.446] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:24.954] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:26.470] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:26.670] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:26.670] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:27.182] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:28.692] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:28.870] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:28.870] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:29.386] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:30.900] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:31.068] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:31.068] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:31.578] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:33.087] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:33.269] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:33.269] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:33.777] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:35.283] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:35.465] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:35.465] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:35.976] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:37.495] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:37.673] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:37.673] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:38.182] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:39.688] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:39.886] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:39.886] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:40.397] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:41.916] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:42.092] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:42.092] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:42.604] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:44.119] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:44.289] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:44.289] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:44.800] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:46.316] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:46.514] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:46.514] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:47.024] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:48.535] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:48.723] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:48.723] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:49.229] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:50.753] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:50.917] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:50.917] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:51.425] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:52.948] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:53.117] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:53.117] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:53.625] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:55.149] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:55.340] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:55.340] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:55.851] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:57.367] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:57.519] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:57.519] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:58.031] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:05:59.541] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:05:59.729] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:05:59.729] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:00.240] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:01.744] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:01.947] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:01.947] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:02.457] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:03.965] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:04.137] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:04.137] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:04.644] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:06.163] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:06.319] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:06.319] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:06.830] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:08.343] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:08.523] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:08.523] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:09.041] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:10.548] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:10.728] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:10.728] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:11.239] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:12.747] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:12.973] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:12.973] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:13.484] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:15.001] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:15.165] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:15.165] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:15.671] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:17.188] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:17.358] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:17.358] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:17.866] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:19.378] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:19.576] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:19.576] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:20.084] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:21.600] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:21.778] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:21.778] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:22.290] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:23.800] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:24.012] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:24.012] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:24.522] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:25.815] [00000] Offline Mode
+[N:20230901 13:06:26.039] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:26.251] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:26.251] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:26.760] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:28.277] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:28.473] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:28.473] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:28.983] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:30.499] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:30.692] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:30.692] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:31.201] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:32.713] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:32.883] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:32.883] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:33.395] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:34.910] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:35.106] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:35.106] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:35.614] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:37.130] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:37.292] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:37.292] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:37.802] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:39.318] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:39.489] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:39.489] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:40.001] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:41.515] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:41.705] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:41.705] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:42.220] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:43.727] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:43.907] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:43.907] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:44.420] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:45.936] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:46.121] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:46.121] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:46.635] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:48.142] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:48.326] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:48.326] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:48.836] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:50.348] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:50.522] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:50.522] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:50.960] [00000] Online Mode
+[N:20230901 13:06:51.034] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:52.543] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:52.727] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:52.727] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:53.235] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:54.755] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:54.927] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:54.927] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:55.439] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:56.947] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:57.117] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:57.117] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:57.625] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:59.133] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:06:59.337] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:06:59.337] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:06:59.846] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:01.355] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:01.565] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:01.565] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:02.076] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:03.588] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:03.798] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:03.798] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:04.304] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:05.830] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:06.012] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:06.012] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:06.518] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:08.039] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:08.225] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:08.225] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:08.735] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:10.249] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:10.449] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:10.449] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:10.959] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:12.474] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:12.672] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:12.672] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:13.183] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:14.695] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:14.871] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:14.871] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:15.381] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:16.894] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:17.062] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:17.062] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:17.568] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:19.090] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:19.305] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:19.305] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:19.820] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:21.327] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:21.537] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:21.537] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:22.045] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:23.556] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:23.749] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:23.749] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:24.259] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:25.769] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:25.943] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:25.943] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:26.453] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:27.964] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:28.154] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:28.154] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:28.666] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:30.180] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:30.380] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:30.380] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:30.887] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:32.409] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:32.559] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:32.559] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:33.068] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:34.576] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:34.769] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:34.769] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:35.279] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:36.786] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:36.969] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:36.969] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:37.479] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:39.005] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:39.189] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:39.189] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:39.699] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:41.211] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:41.367] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:41.367] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:41.879] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:43.388] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:43.554] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:43.554] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:44.066] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:45.584] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:45.780] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:45.780] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:46.292] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:47.802] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:48.000] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:48.000] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:48.508] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:50.022] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:50.232] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:50.232] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:50.743] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:52.257] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:52.436] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:52.436] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:52.946] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:54.458] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:54.654] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:54.654] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:55.163] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:56.679] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:56.863] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:56.863] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:57.367] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:58.889] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:07:59.097] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:07:59.097] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:07:59.607] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:01.127] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:01.293] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:01.293] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:01.805] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:03.318] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:03.484] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:03.484] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:03.994] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:05.509] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:05.678] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:05.678] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:06.193] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:07.703] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:07.863] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:07.863] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:08.373] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:09.885] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:10.058] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:10.058] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:10.565] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:11.929] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:08:11.929] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:08:11.929] [09999] PLC Data Connection Try !!!
+[N:20230901 13:08:12.079] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:12.245] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:12.245] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:12.757] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:13.953] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20230901 13:08:13.953] [00001] Vision Posiion Read Fail
+[N:20230901 13:08:14.275] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:14.457] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:14.457] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:14.964] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:16.482] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:16.678] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:16.678] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:16.888] [00000] Offline Mode
+[N:20230901 13:08:17.182] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:17.776] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:08:17.776] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:08:17.776] [09999] PLC Data Connection Try !!!
+[N:20230901 13:08:18.694] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:18.904] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:18.904] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:19.414] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:19.798] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20230901 13:08:19.798] [00001] Vision Posiion Read Fail
+[N:20230901 13:08:20.062] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 13:08:20.922] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:21.142] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:21.142] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:21.654] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:23.161] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:23.346] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:23.346] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:23.856] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:25.371] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:25.566] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:25.566] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:26.079] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:27.599] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:27.768] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:27.768] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:28.278] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:29.795] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:29.987] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:29.987] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:30.494] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:32.010] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:32.182] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:32.182] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:32.690] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:34.208] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:34.392] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:34.392] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:34.904] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:36.418] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:36.618] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:36.618] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:37.126] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:38.637] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:38.841] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:38.841] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:39.351] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:39.576] [00777] Merging Start
+[N:20230901 13:08:39.576] [00777] Merging UseCalibration
+[N:20230901 13:08:39.576] [00777] Merging UseCalibration
+[N:20230901 13:08:40.873] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:41.095] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:41.095] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:41.608] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:42.955] [09999] EVENT_WORK_VSCAN
+[N:20230901 13:08:43.123] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:43.322] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:43.322] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:43.829] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:45.352] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:45.526] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:45.526] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:46.014] [00000] Log On : Administrator
+[N:20230901 13:08:46.038] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:47.553] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:47.741] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:47.741] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:48.253] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:49.760] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:49.961] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:49.961] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:50.159] [00000] Online Mode
+[N:20230901 13:08:50.471] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:51.987] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:52.179] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:52.179] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:52.689] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:54.202] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:54.374] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:54.374] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:54.884] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:56.396] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:56.588] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:56.588] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:57.100] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:58.614] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:08:58.796] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:08:58.796] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:08:59.303] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:00.818] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:00.994] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:00.994] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:01.508] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:03.028] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:03.218] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:03.218] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:03.730] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:05.243] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:05.427] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:05.427] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:05.936] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:07.450] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:07.618] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:07.618] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:08.126] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:09.644] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:09.809] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:09.809] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:10.317] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:11.845] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:12.027] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:12.027] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:12.540] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:14.045] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:14.215] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:14.215] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:14.724] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:16.240] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:16.390] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:16.390] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:16.899] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:18.423] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:18.597] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:18.597] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:19.105] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:20.623] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:20.819] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:20.819] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:21.329] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:22.840] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:23.018] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:23.018] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:23.527] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:25.037] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:25.219] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:25.219] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:25.731] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:27.246] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:27.402] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:27.402] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:27.909] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:29.418] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:29.586] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:29.586] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:30.096] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:31.609] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:31.799] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:31.799] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:32.309] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:33.830] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:34.010] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:34.010] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:34.519] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:36.036] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:36.232] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:36.232] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:36.744] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:38.254] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:38.460] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:38.460] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:38.966] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:40.487] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:40.693] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:40.693] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:41.207] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:42.716] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:42.892] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:42.892] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:43.400] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:44.916] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:45.060] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:45.060] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:45.570] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:47.081] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:47.235] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:47.235] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:47.745] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:49.257] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:49.434] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:49.434] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:49.943] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:51.449] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:51.633] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:51.633] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:52.143] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:53.657] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:53.825] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:53.825] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:54.153] [00000] Offline Mode
+[N:20230901 13:09:54.335] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:55.852] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:09:56.028] [09999] !!! Reconnect PLC !!!
+[N:20230901 13:09:56.028] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:56.536] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[E:20230901 13:09:57.168] [00001] Laser Power ON - OK
+[N:20230901 13:09:58.049] [09999] PLC Data Connection Error(IP : 192.168.3.2, port : 8102)
+[E:20230901 13:09:59.339] [00001] Laser Power ON - OK
+[N:20230901 13:09:59.853] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:09:59.859] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:10:00.859] [00001] IWS exit!======================================================
+[N:20230901 13:11:21.646] [00001] InteliWeldSystem started=======================================
+[N:20230901 13:11:28.847] [00001] Initializing Inteli Weld System : start
+[E:20230901 13:11:29.681] [00001] Success.
+[E:20230901 13:11:33.845] [00001] Laser Power ON - OK
+[N:20230901 13:11:38.951] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 13:11:38.953] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 13:11:39.527] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:11:39.645] [00001] Work file load as Normal works
+[N:20230901 13:11:39.653] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:11:39.655] [00001] Initializing Inteli Weld System : end
+[N:20230901 13:11:48.538] [00000] Online Mode
+[N:20230901 13:12:21.891] [00000] Offline Mode
+[E:20230901 13:12:22.987] [00001] Laser Power ON - OK
+[N:20230901 13:12:24.559] [00000] Online Mode
+[N:20230901 13:12:28.568] [00001] Initialize Request
+[N:20230901 13:12:28.758] [00001] Initialize Response
+[N:20230901 13:12:28.758] [00001] Time Sync Request
+[N:20230901 13:12:28.758] [00001] Set Local Time by PLC : 2023-09-01 13:12:51
+[N:20230901 13:12:28.929] [00001] Time Sync Response
+[N:20230901 13:12:37.438] [00000] Online Mode
+[N:20230901 13:15:04.762] [00001] Receiveed inspection Request From PLC
+[N:20230901 13:15:04.762] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:15:04.850] [00001] Work file load as Normal works
+[N:20230901 13:15:04.858] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:15:04.860] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:15:04.860] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:15:05.160] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:15:05.168] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:15:05.174] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:15:05.180] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:15:05.186] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:15:05.208] [00001] Update3DPosition Complete
+[N:20230901 13:17:29.281] [00000] Offline Mode
+[E:20230901 13:17:30.701] [00001] Laser Power ON - OK
+[E:20230901 13:17:32.149] [00001] Laser Power ON - OK
+[N:20230901 13:17:47.921] [00000] Online Mode
+[N:20230901 13:17:51.667] [00001] Start Weld
+[N:20230901 13:17:51.705] [00001] Job start
+[N:20230901 13:17:51.705] [00001] WORKMODE - Weld Mode
+[W:20230901 13:18:00.831] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 13:18:19.559] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 13:18:30.362] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 13:19:04.538] [00001] Job end , tact time = 72.833 sec
+[N:20230901 13:19:29.537] [00001] Receiveed inspection Request From PLC
+[N:20230901 13:19:29.537] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:19:29.627] [00001] Work file load as Normal works
+[N:20230901 13:19:29.635] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:19:29.637] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:19:29.637] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:19:29.947] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:19:29.953] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:19:29.959] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:19:29.965] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:19:29.971] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:19:29.977] [00001] [N:20230901 13:19:30.033] [00001] Update3DPosition Complete
+[N:20230901 13:19:38.902] [00001] Start Repair Weld
+[N:20230901 13:19:38.902] [00001] Job start
+[N:20230901 13:19:38.902] [00001] WORKMODE - Weld Mode
+[N:20230901 13:19:39.846] [00001] Job end , tact time = 0.944 sec
+[N:20230901 13:29:09.239] [00001] Receiveed inspection Request From PLC
+[N:20230901 13:29:09.239] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:29:09.329] [00001] Work file load as Normal works
+[N:20230901 13:29:09.337] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:29:09.339] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:29:09.339] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:29:09.663] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:29:09.671] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:29:09.677] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:29:09.683] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:29:09.689] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:29:09.711] [00001] Update3DPosition Complete
+[N:20230901 13:30:30.530] [00000] Offline Mode
+[N:20230901 13:30:31.731] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:30:31.731] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:30:32.053] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:30:32.061] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:30:32.067] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:30:32.073] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:30:32.079] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:30:32.507] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 13:30:51.948] [00777] Merging Start
+[N:20230901 13:30:51.948] [00777] Merging UseCalibration
+[N:20230901 13:30:51.948] [00777] Merging UseCalibration
+[N:20230901 13:30:55.298] [09999] EVENT_WORK_VSCAN
+[N:20230901 13:33:17.931] [00000] Online Mode
+[N:20230901 13:33:25.315] [00000] Offline Mode
+[N:20230901 13:33:38.482] [00001] Job start
+[N:20230901 13:33:38.482] [00001] WORKMODE - Weld Mode
+[W:20230901 13:34:17.144] [00001] Scanner Pos Ack Y Warning = [0]
+[W:20230901 13:34:34.211] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 13:34:51.868] [00001] Job end , tact time = 73.386 sec
+[N:20230901 13:35:26.138] [00000] Online Mode
+[N:20230901 13:35:30.674] [00001] Initialize Request
+[N:20230901 13:35:30.850] [00001] Initialize Response
+[N:20230901 13:35:30.850] [00001] Time Sync Request
+[N:20230901 13:35:30.850] [00001] Set Local Time by PLC : 2023-09-01 13:35:52
+[N:20230901 13:35:31.016] [00001] Time Sync Response
+[N:20230901 13:59:35.757] [00001] Receiveed inspection Request From PLC
+[N:20230901 13:59:35.757] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 13:59:35.847] [00001] Work file load as Normal works
+[N:20230901 13:59:35.869] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 13:59:35.871] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:59:35.871] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:59:36.197] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:59:36.207] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:59:36.213] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:59:36.219] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:59:36.225] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:59:36.247] [00001] Update3DPosition Complete
+[N:20230901 13:59:37.356] [00000] Offline Mode
+[N:20230901 13:59:38.587] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 13:59:38.587] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 13:59:38.929] [00001] Update3DPosition RCP No: 2
+[N:20230901 13:59:38.935] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 13:59:38.941] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 13:59:38.947] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 13:59:38.953] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 13:59:39.514] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 13:59:58.917] [00777] Merging Start
+[N:20230901 13:59:58.917] [00777] Merging UseCalibration
+[N:20230901 13:59:58.917] [00777] Merging UseCalibration
+[N:20230901 14:00:02.264] [09999] EVENT_WORK_VSCAN
+[N:20230901 14:01:16.191] [00000] Log On : Administrator
+[N:20230901 14:02:12.137] [00001] Job start
+[N:20230901 14:02:12.137] [00001] WORKMODE - Weld Mode
+[W:20230901 14:02:19.353] [00001] Scanner Pos Ack Y Warning = [0]
+[W:20230901 14:02:50.764] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 14:03:25.671] [00001] Job end , tact time = 73.535 sec
+[N:20230901 14:04:52.722] [00000] Online Mode
+[N:20230901 14:04:58.034] [00001] Initialize Request
+[N:20230901 14:04:58.218] [00001] Initialize Response
+[N:20230901 14:04:58.218] [00001] Time Sync Request
+[N:20230901 14:04:58.218] [00001] Set Local Time by PLC : 2023-09-01 14:05:20
+[N:20230901 14:04:58.388] [00001] Time Sync Response
+[N:20230901 14:05:33.735] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:05:33.735] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:05:33.827] [00001] Work file load as Normal works
+[N:20230901 14:05:33.841] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:05:33.843] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:05:33.843] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:05:34.137] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:05:34.143] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:05:34.149] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:05:34.155] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:05:34.161] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:05:34.167] [00001] [N:20230901 14:05:34.219] [00001] Update3DPosition Complete
+[N:20230901 14:05:42.458] [00001] Start Repair Weld
+[N:20230901 14:05:42.462] [00001] Job start
+[N:20230901 14:05:42.462] [00001] WORKMODE - Weld Mode
+[N:20230901 14:05:43.936] [00001] Job end , tact time = 1.474 sec
+[N:20230901 14:12:31.328] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:12:31.328] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:12:31.418] [00001] Work file load as Normal works
+[N:20230901 14:12:31.426] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:12:31.428] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:12:31.428] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:12:31.724] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:12:31.732] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:12:31.738] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:12:31.744] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:12:31.750] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:12:31.772] [00001] Update3DPosition Complete
+[N:20230901 14:12:31.956] [00000] Offline Mode
+[N:20230901 14:12:33.866] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:12:33.866] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:12:34.164] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:12:34.170] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:12:34.176] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:12:34.182] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:12:34.188] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:12:35.773] [00000] Offline Mode
+[N:20230901 14:12:36.949] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:12:36.949] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:12:37.279] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:12:37.287] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:12:37.293] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:12:37.299] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:12:37.305] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:12:37.627] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 14:12:56.986] [00777] Merging Start
+[N:20230901 14:12:56.986] [00777] Merging UseCalibration
+[N:20230901 14:12:56.986] [00777] Merging UseCalibration
+[N:20230901 14:13:00.309] [09999] EVENT_WORK_VSCAN
+[N:20230901 14:14:26.570] [00000] Log On : Administrator
+[N:20230901 14:17:53.982] [00001] Job start
+[N:20230901 14:17:53.982] [00001] WORKMODE - Weld Mode
+[N:20230901 14:19:07.744] [00001] Job end , tact time = 73.762 sec
+[N:20230901 14:19:59.752] [00000] Online Mode
+[N:20230901 14:20:05.120] [00001] Initialize Request
+[N:20230901 14:20:05.333] [00001] Initialize Response
+[N:20230901 14:20:05.333] [00001] Time Sync Request
+[N:20230901 14:20:05.333] [00001] Set Local Time by PLC : 2023-09-01 14:20:27
+[N:20230901 14:20:05.505] [00001] Time Sync Response
+[N:20230901 14:26:54.585] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:26:54.585] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:26:54.675] [00001] Work file load as Normal works
+[N:20230901 14:26:54.689] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:26:54.691] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:26:54.691] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:26:54.987] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:26:54.995] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:26:55.001] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:26:55.007] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:26:55.013] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:26:55.037] [00001] Update3DPosition Complete
+[N:20230901 14:27:00.783] [00000] Offline Mode
+[N:20230901 14:27:01.681] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:27:01.681] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:27:02.033] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:27:02.039] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:27:02.047] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:27:02.053] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:27:02.057] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:27:02.225] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 14:27:21.753] [00777] Merging Start
+[N:20230901 14:27:21.753] [00777] Merging UseCalibration
+[N:20230901 14:27:21.753] [00777] Merging UseCalibration
+[N:20230901 14:27:25.087] [09999] EVENT_WORK_VSCAN
+[N:20230901 14:27:50.131] [00000] Log On : Administrator
+[N:20230901 14:33:21.222] [00001] Job start
+[N:20230901 14:33:21.222] [00001] WORKMODE - Weld Mode
+[W:20230901 14:34:22.450] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 14:34:34.983] [00001] Job end , tact time = 73.761 sec
+[N:20230901 14:35:09.543] [00000] Online Mode
+[N:20230901 14:35:13.158] [00001] Initialize Request
+[N:20230901 14:35:13.344] [00001] Initialize Response
+[N:20230901 14:35:13.344] [00001] Time Sync Request
+[N:20230901 14:35:13.344] [00001] Set Local Time by PLC : 2023-09-01 14:35:35
+[N:20230901 14:35:13.536] [00001] Time Sync Response
+[N:20230901 14:35:49.293] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:35:49.293] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:35:49.377] [00001] Work file load as Normal works
+[N:20230901 14:35:49.395] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:35:49.397] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:35:49.397] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:35:49.717] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:35:49.725] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:35:49.731] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:35:49.737] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:35:49.743] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:35:49.749] [00001] [N:20230901 14:35:49.823] [00001] Update3DPosition Complete
+[N:20230901 14:35:50.043] [09999] !!! Reconnect PLC !!!
+[N:20230901 14:35:50.043] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 14:35:50.554] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 14:35:50.556] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 14:35:50.736] [09999] !!! Reconnect PLC !!!
+[N:20230901 14:35:50.736] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 14:35:51.244] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 14:35:51.246] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 14:35:56.372] [00001] Start Repair Weld
+[N:20230901 14:35:56.372] [00001] Job start
+[N:20230901 14:35:56.372] [00001] WORKMODE - Weld Mode
+[N:20230901 14:35:57.565] [00001] Job end , tact time = 1.193 sec
+[N:20230901 14:43:15.099] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:43:15.099] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:43:15.187] [00001] Work file load as Normal works
+[N:20230901 14:43:15.197] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:43:15.199] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:43:15.199] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:43:15.529] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:43:15.537] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:43:15.543] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:43:15.549] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:43:15.555] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:43:15.577] [00001] Update3DPosition Complete
+[N:20230901 14:43:24.997] [00000] Offline Mode
+[N:20230901 14:43:26.192] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:43:26.192] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:43:26.524] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:43:26.532] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:43:26.538] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:43:26.544] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:43:26.548] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:43:26.736] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 14:43:46.231] [00777] Merging Start
+[N:20230901 14:43:46.231] [00777] Merging UseCalibration
+[N:20230901 14:43:46.231] [00777] Merging UseCalibration
+[N:20230901 14:43:49.520] [09999] EVENT_WORK_VSCAN
+[N:20230901 14:43:56.653] [00000] Log On : Administrator
+[N:20230901 14:46:18.783] [00001] Job start
+[N:20230901 14:46:18.783] [00001] WORKMODE - Weld Mode
+[N:20230901 14:47:32.821] [00001] Job end , tact time = 74.038 sec
+[N:20230901 14:47:54.578] [00000] Online Mode
+[N:20230901 14:48:02.069] [00001] Initialize Request
+[N:20230901 14:48:02.246] [00001] Initialize Response
+[N:20230901 14:48:02.246] [00001] Time Sync Request
+[N:20230901 14:48:02.246] [00001] Set Local Time by PLC : 2023-09-01 14:48:24
+[N:20230901 14:48:02.418] [00001] Time Sync Response
+[N:20230901 14:54:53.771] [00001] Receiveed inspection Request From PLC
+[N:20230901 14:54:53.771] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 14:54:53.863] [00001] Work file load as Normal works
+[N:20230901 14:54:53.879] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 14:54:53.881] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:54:53.881] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:54:54.123] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:54:54.131] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:54:54.137] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:54:54.143] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:54:54.149] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:54:54.171] [00001] Update3DPosition Complete
+[N:20230901 14:55:12.199] [00000] Offline Mode
+[N:20230901 14:55:13.249] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 14:55:13.249] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 14:55:13.573] [00001] Update3DPosition RCP No: 2
+[N:20230901 14:55:13.581] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 14:55:13.587] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 14:55:13.593] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 14:55:13.599] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 14:55:13.984] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 14:55:33.437] [00777] Merging Start
+[N:20230901 14:55:33.437] [00777] Merging UseCalibration
+[N:20230901 14:55:33.437] [00777] Merging UseCalibration
+[N:20230901 14:55:36.746] [09999] EVENT_WORK_VSCAN
+[N:20230901 14:56:37.249] [00001] Job start
+[N:20230901 14:56:37.249] [00001] WORKMODE - Weld Mode
+[N:20230901 14:57:50.156] [00001] Job end , tact time = 72.907 sec
+[N:20230901 15:01:04.672] [00000] Online Mode
+[N:20230901 15:01:06.940] [00001] Initialize Request
+[N:20230901 15:01:07.124] [00001] Initialize Response
+[N:20230901 15:01:07.124] [00001] Time Sync Request
+[N:20230901 15:01:07.124] [00001] Set Local Time by PLC : 2023-09-01 15:01:29
+[N:20230901 15:01:07.313] [00001] Time Sync Response
+[N:20230901 15:01:17.981] [00001] Receiveed inspection Request From PLC
+[N:20230901 15:01:18.009] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 15:01:18.103] [00001] Work file load as Normal works
+[N:20230901 15:01:18.123] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 15:01:18.125] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:01:18.125] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:01:18.443] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:01:18.449] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:01:18.455] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:01:18.461] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:01:18.467] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:01:18.491] [00001] Update3DPosition Complete
+[N:20230901 15:02:50.167] [00000] Offline Mode
+[N:20230901 15:02:51.392] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:02:51.392] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:02:51.730] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:02:51.738] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:02:51.744] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:02:51.750] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:02:51.756] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:02:51.978] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 15:03:11.442] [00777] Merging Start
+[N:20230901 15:03:11.442] [00777] Merging UseCalibration
+[N:20230901 15:03:11.442] [00777] Merging UseCalibration
+[N:20230901 15:03:14.762] [09999] EVENT_WORK_VSCAN
+[N:20230901 15:03:17.531] [00000] Log On : Administrator
+[N:20230901 15:03:19.066] [00000] Log Out : Operator
+[N:20230901 15:03:21.715] [00000] Log On : Administrator
+[N:20230901 15:10:48.671] [00001] Job start
+[N:20230901 15:10:48.671] [00001] WORKMODE - Weld Mode
+[W:20230901 15:11:26.093] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 15:12:03.550] [00001] Job end , tact time = 74.880 sec
+[N:20230901 15:12:23.823] [00000] Online Mode
+[N:20230901 15:12:28.127] [00001] Initialize Request
+[N:20230901 15:12:28.319] [00001] Initialize Response
+[N:20230901 15:12:28.319] [00001] Time Sync Request
+[N:20230901 15:12:28.319] [00001] Set Local Time by PLC : 2023-09-01 15:12:50
+[N:20230901 15:12:28.475] [00001] Time Sync Response
+[N:20230901 15:13:01.745] [00001] Receiveed inspection Request From PLC
+[N:20230901 15:13:01.745] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 15:13:01.839] [00001] Work file load as Normal works
+[N:20230901 15:13:01.853] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 15:13:01.855] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:13:01.855] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:13:02.173] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:13:02.181] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:13:02.187] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:13:02.193] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:13:02.199] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:13:02.205] [00001] [N:20230901 15:13:02.263] [00001] Update3DPosition Complete
+[N:20230901 15:13:02.445] [09999] !!! Reconnect PLC !!!
+[N:20230901 15:13:02.445] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:13:02.954] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 15:13:02.958] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:13:03.124] [09999] !!! Reconnect PLC !!!
+[N:20230901 15:13:03.124] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:13:03.632] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:13:03.632] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 15:13:30.749] [00001] Start Repair Weld
+[N:20230901 15:13:30.751] [00001] Job start
+[N:20230901 15:13:30.751] [00001] WORKMODE - Weld Mode
+[N:20230901 15:13:32.150] [00001] Job end , tact time = 1.399 sec
+[N:20230901 15:25:21.741] [00001] Receiveed inspection Request From PLC
+[N:20230901 15:25:21.741] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 15:25:21.831] [00001] Work file load as Normal works
+[N:20230901 15:25:21.841] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 15:25:21.843] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:25:21.843] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:25:22.151] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:25:22.159] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:25:22.165] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:25:22.171] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:25:22.177] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:25:22.201] [00001] Update3DPosition Complete
+[N:20230901 15:25:22.451] [09999] !!! Reconnect PLC !!!
+[N:20230901 15:25:22.451] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:25:22.963] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 15:25:22.964] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:25:23.126] [09999] !!! Reconnect PLC !!!
+[N:20230901 15:25:23.126] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:25:23.632] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 15:25:23.634] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 15:25:29.705] [00000] Offline Mode
+[N:20230901 15:25:31.882] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:25:31.882] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:25:32.204] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:25:32.212] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:25:32.218] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:25:32.224] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:25:32.230] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:25:32.492] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 15:25:51.958] [00777] Merging Start
+[N:20230901 15:25:51.958] [00777] Merging UseCalibration
+[N:20230901 15:25:51.958] [00777] Merging UseCalibration
+[N:20230901 15:25:55.215] [09999] EVENT_WORK_VSCAN
+[N:20230901 15:26:13.909] [00000] Log On : Administrator
+[N:20230901 15:26:50.303] [00001] Job start
+[N:20230901 15:26:50.303] [00001] WORKMODE - Weld Mode
+[W:20230901 15:26:59.503] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 15:27:08.411] [00001] Job end , tact time = 18.108 sec
+[N:20230901 15:30:13.778] [00000] Offline Mode
+[N:20230901 15:31:21.358] [00001] Job start
+[N:20230901 15:31:21.358] [00001] WORKMODE - Weld Mode
+[W:20230901 15:31:54.496] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 15:32:35.704] [00001] Job end , tact time = 74.346 sec
+[N:20230901 15:33:51.336] [00000] Offline Mode
+[N:20230901 15:34:26.057] [00000] Online Mode
+[N:20230901 15:34:55.752] [00001] Initialize Request
+[N:20230901 15:34:55.932] [00001] Initialize Response
+[N:20230901 15:34:55.932] [00001] Time Sync Request
+[N:20230901 15:34:55.932] [00001] Set Local Time by PLC : 2023-09-01 15:35:18
+[N:20230901 15:34:56.080] [00001] Time Sync Response
+[N:20230901 15:35:30.501] [00001] Receiveed inspection Request From PLC
+[N:20230901 15:35:30.501] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 15:35:30.591] [00001] Work file load as Normal works
+[N:20230901 15:35:30.607] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 15:35:30.609] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:35:30.609] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:35:30.877] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:35:30.883] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:35:30.889] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:35:30.895] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:35:30.901] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:35:30.907] [00001] [N:20230901 15:35:30.949] [00001] Update3DPosition Complete
+[N:20230901 15:36:30.098] [00001] Initialize Request
+[N:20230901 15:36:30.268] [00001] Initialize Response
+[N:20230901 15:36:30.268] [00001] Time Sync Request
+[N:20230901 15:36:30.268] [00001] Set Local Time by PLC : 2023-09-01 15:36:52
+[N:20230901 15:36:30.444] [00001] Time Sync Response
+[N:20230901 15:39:59.713] [00000] Offline Mode
+[N:20230901 15:40:09.286] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:40:09.286] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:40:09.634] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:40:09.640] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:40:09.648] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:40:09.654] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:40:09.660] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:40:09.666] [00001] [N:20230901 15:40:10.056] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 15:40:29.570] [00777] Merging Start
+[N:20230901 15:40:29.570] [00777] Merging UseCalibration
+[N:20230901 15:40:29.570] [00777] Merging UseCalibration
+[N:20230901 15:40:32.869] [09999] EVENT_WORK_VSCAN
+[N:20230901 15:41:03.693] [00000] Log On : Administrator
+[N:20230901 15:42:50.447] [00001] Job start
+[N:20230901 15:42:50.447] [00001] WORKMODE - Weld Mode
+[N:20230901 15:43:13.641] [00001] Job end , tact time = 23.193 sec
+[N:20230901 15:43:34.519] [00000] Offline Mode
+[N:20230901 15:43:36.170] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 15:43:55.626] [00777] Merging Start
+[N:20230901 15:43:55.628] [00777] Merging UseCalibration
+[N:20230901 15:43:55.628] [00777] Merging UseCalibration
+[N:20230901 15:43:58.845] [09999] EVENT_WORK_VSCAN
+[N:20230901 15:45:04.136] [00000] Online Mode
+[N:20230901 15:45:20.226] [00001] Initialize Request
+[N:20230901 15:45:20.440] [00001] Initialize Response
+[N:20230901 15:45:20.440] [00001] Time Sync Request
+[N:20230901 15:45:20.440] [00001] Set Local Time by PLC : 2023-09-01 15:45:42
+[N:20230901 15:45:20.614] [00001] Time Sync Response
+[N:20230901 15:45:49.067] [00001] Receiveed inspection Request From PLC
+[N:20230901 15:45:49.067] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 15:45:49.161] [00001] Work file load as Normal works
+[N:20230901 15:45:49.175] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 15:45:49.177] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 15:45:49.177] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 15:45:49.453] [00001] Update3DPosition RCP No: 1
+[N:20230901 15:45:49.461] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 15:45:49.467] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 15:45:49.473] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 15:45:49.479] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 15:45:49.485] [00001] [N:20230901 15:45:49.559] [00001] Update3DPosition Complete
+[N:20230901 15:46:53.830] [00001] Start Repair Weld
+[N:20230901 15:46:53.832] [00001] Job start
+[N:20230901 15:46:53.832] [00001] WORKMODE - Weld Mode
+[N:20230901 15:46:54.799] [00001] Job end , tact time = 0.967 sec
+[N:20230901 16:07:49.198] [00001] Receiveed inspection Request From PLC
+[N:20230901 16:07:49.198] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 16:07:49.292] [00001] Work file load as Normal works
+[N:20230901 16:07:49.302] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 16:07:49.304] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:07:49.304] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:07:49.662] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:07:49.670] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:07:49.676] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:07:49.682] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:07:49.688] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:07:49.710] [00001] Update3DPosition Complete
+[N:20230901 16:07:49.952] [09999] !!! Reconnect PLC !!!
+[N:20230901 16:07:49.952] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:50.462] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 16:07:50.462] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:50.650] [09999] !!! Reconnect PLC !!!
+[N:20230901 16:07:50.650] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:51.160] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 16:07:51.162] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:51.673] [09999] !!! Reconnect PLC !!!
+[N:20230901 16:07:51.673] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:52.181] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 16:07:52.185] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:52.376] [09999] !!! Reconnect PLC !!!
+[N:20230901 16:07:52.376] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:52.888] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:52.890] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 16:07:53.094] [09999] !!! Reconnect PLC !!!
+[N:20230901 16:07:53.094] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:53.604] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 16:07:53.606] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 16:07:53.704] [00000] Offline Mode
+[N:20230901 16:07:54.673] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:07:54.673] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:07:55.027] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:07:55.035] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:07:55.041] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:07:55.047] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:07:55.053] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:07:55.361] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 16:08:14.808] [00777] Merging Start
+[N:20230901 16:08:14.808] [00777] Merging UseCalibration
+[N:20230901 16:08:14.808] [00777] Merging UseCalibration
+[N:20230901 16:08:18.068] [09999] EVENT_WORK_VSCAN
+[N:20230901 16:08:33.766] [00000] Log On : Administrator
+[N:20230901 16:12:58.066] [00001] Job start
+[N:20230901 16:12:58.066] [00001] WORKMODE - Weld Mode
+[W:20230901 16:13:49.598] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 16:14:01.604] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 16:14:12.776] [00001] Job end , tact time = 74.783 sec
+[N:20230901 16:14:16.797] [00000] Online Mode
+[N:20230901 16:14:30.123] [00001] Initialize Request
+[N:20230901 16:14:30.299] [00001] Initialize Response
+[N:20230901 16:14:30.299] [00001] Time Sync Request
+[N:20230901 16:14:30.299] [00001] Set Local Time by PLC : 2023-09-01 16:14:52
+[N:20230901 16:14:30.463] [00001] Time Sync Response
+[N:20230901 16:15:06.212] [00001] Receiveed inspection Request From PLC
+[N:20230901 16:15:06.212] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 16:15:06.304] [00001] Work file load as Normal works
+[N:20230901 16:15:06.318] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 16:15:06.320] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:15:06.320] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:15:06.664] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:15:06.670] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:15:06.676] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:15:06.682] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:15:06.688] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:15:06.694] [00001] [N:20230901 16:15:06.748] [00001] Update3DPosition Complete
+[N:20230901 16:15:10.430] [00001] Start Repair Weld
+[N:20230901 16:15:10.486] [00001] Job start
+[N:20230901 16:15:10.486] [00001] WORKMODE - Weld Mode
+[N:20230901 16:15:11.249] [00001] Job end , tact time = 0.762 sec
+[N:20230901 16:19:33.231] [00000] Offline Mode
+[N:20230901 16:19:34.018] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:19:34.018] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:19:34.402] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:19:34.408] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:19:34.414] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:19:34.420] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:19:34.426] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:19:34.432] [00001] [N:20230901 16:19:34.846] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 16:19:54.255] [00777] Merging Start
+[N:20230901 16:19:54.255] [00777] Merging UseCalibration
+[N:20230901 16:19:54.255] [00777] Merging UseCalibration
+[N:20230901 16:19:57.521] [09999] EVENT_WORK_VSCAN
+[N:20230901 16:20:03.645] [00000] Log On : Administrator
+[N:20230901 16:32:47.167] [00001] Job start
+[N:20230901 16:32:47.167] [00001] WORKMODE - Weld Mode
+[W:20230901 16:32:48.813] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 16:32:53.982] [00001] Job end , tact time = 6.815 sec
+[N:20230901 16:32:59.003] [00000] Online Mode
+[N:20230901 16:33:14.279] [00001] Initialize Request
+[N:20230901 16:33:14.451] [00001] Initialize Response
+[N:20230901 16:33:14.451] [00001] Time Sync Request
+[N:20230901 16:33:14.451] [00001] Set Local Time by PLC : 2023-09-01 16:33:37
+[N:20230901 16:33:14.609] [00001] Time Sync Response
+[N:20230901 16:39:05.277] [00001] Receiveed inspection Request From PLC
+[N:20230901 16:39:05.277] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 16:39:05.369] [00001] Work file load as Normal works
+[N:20230901 16:39:05.385] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 16:39:05.387] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 16:39:05.387] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:39:05.667] [00001] Update3DPosition RCP No: 2
+[N:20230901 16:39:05.675] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 16:39:05.681] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 16:39:05.687] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 16:39:05.693] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 16:39:05.715] [00001] Update3DPosition Complete
+[N:20230901 16:39:11.139] [00000] Offline Mode
+[N:20230901 16:39:12.315] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 16:39:12.315] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:39:12.633] [00001] Update3DPosition RCP No: 2
+[N:20230901 16:39:12.641] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 16:39:12.647] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 16:39:12.653] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 16:39:12.659] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 16:39:13.051] [09999] DoVScan, GetDoEmission = [1]
+[W:20230901 16:39:15.624] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 16:39:32.556] [00777] Merging Start
+[N:20230901 16:39:32.556] [00777] Merging UseCalibration
+[N:20230901 16:39:32.556] [00777] Merging UseCalibration
+[N:20230901 16:39:35.831] [09999] EVENT_WORK_VSCAN
+[N:20230901 16:43:41.523] [00000] Offline Mode
+[N:20230901 16:43:44.171] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 16:43:44.171] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:43:44.553] [00001] Update3DPosition RCP No: 2
+[N:20230901 16:43:44.561] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 16:43:44.567] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 16:43:44.573] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 16:43:44.579] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 16:43:46.259] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 16:44:05.850] [00777] Merging Start
+[N:20230901 16:44:05.850] [00777] Merging UseCalibration
+[N:20230901 16:44:05.850] [00777] Merging UseCalibration
+[N:20230901 16:44:09.161] [09999] EVENT_WORK_VSCAN
+[N:20230901 16:44:17.042] [00000] Log On : Administrator
+[N:20230901 16:45:27.705] [00001] Job start
+[N:20230901 16:45:27.705] [00001] WORKMODE - Weld Mode
+[W:20230901 16:45:29.212] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 16:46:13.632] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 16:46:41.118] [00001] Job end , tact time = 73.412 sec
+[N:20230901 16:49:39.073] [00000] Online Mode
+[N:20230901 16:49:51.878] [00001] Initialize Request
+[N:20230901 16:49:52.121] [00001] Initialize Response
+[N:20230901 16:49:52.121] [00001] Time Sync Request
+[N:20230901 16:49:52.121] [00001] Set Local Time by PLC : 2023-09-01 16:50:14
+[N:20230901 16:49:52.315] [00001] Time Sync Response
+[N:20230901 16:51:29.212] [00001] Initialize Request
+[N:20230901 16:51:29.386] [00001] Initialize Response
+[N:20230901 16:51:29.386] [00001] Time Sync Request
+[N:20230901 16:51:29.386] [00001] Set Local Time by PLC : 2023-09-01 16:51:52
+[N:20230901 16:51:29.556] [00001] Time Sync Response
+[N:20230901 16:53:44.018] [00000] Offline Mode
+[N:20230901 16:53:56.938] [00000] Online Mode
+[N:20230901 16:54:08.321] [00001] Receiveed inspection Request From PLC
+[N:20230901 16:54:08.321] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 16:54:08.411] [00001] Work file load as Normal works
+[N:20230901 16:54:08.429] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 16:54:08.431] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:54:08.431] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:54:08.717] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:54:08.725] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:54:08.731] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:54:08.737] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:54:08.743] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:54:08.767] [00001] Update3DPosition Complete
+[N:20230901 16:54:36.998] [00000] Offline Mode
+[N:20230901 16:54:37.996] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:54:37.996] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:54:38.308] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:54:38.316] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:54:38.322] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:54:38.328] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:54:38.334] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:54:39.154] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 16:54:58.610] [00777] Merging Start
+[N:20230901 16:54:58.610] [00777] Merging UseCalibration
+[N:20230901 16:54:58.610] [00777] Merging UseCalibration
+[N:20230901 16:55:01.911] [09999] EVENT_WORK_VSCAN
+[N:20230901 16:58:36.215] [00000] Log On : Administrator
+[N:20230901 16:58:47.147] [00001] 1St Pattern Length has been changed. [0.3300] -> [0.3300]
+[N:20230901 16:58:47.258] [00001] Hairpin Pattern has been canceled.
+[N:20230901 16:58:49.638] [00000] Online Mode
+[N:20230901 16:59:05.185] [00001] Initialize Request
+[N:20230901 16:59:05.354] [00001] Initialize Response
+[N:20230901 16:59:05.354] [00001] Time Sync Request
+[N:20230901 16:59:05.354] [00001] Set Local Time by PLC : 2023-09-01 16:59:27
+[N:20230901 16:59:05.546] [00001] Time Sync Response
+[N:20230901 16:59:15.767] [00001] Receiveed inspection Request From PLC
+[N:20230901 16:59:15.767] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 16:59:15.857] [00001] Work file load as Normal works
+[N:20230901 16:59:15.873] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 16:59:15.875] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 16:59:15.875] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 16:59:16.189] [00001] Update3DPosition RCP No: 1
+[N:20230901 16:59:16.197] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 16:59:16.203] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 16:59:16.209] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 16:59:16.215] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 16:59:16.239] [00001] Update3DPosition Complete
+[N:20230901 17:00:21.086] [00000] Offline Mode
+[N:20230901 17:00:21.858] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 17:00:21.858] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:00:22.248] [00001] Update3DPosition RCP No: 1
+[N:20230901 17:00:22.256] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 17:00:22.262] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 17:00:22.268] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 17:00:22.274] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 17:00:22.662] [09999] DoVScan, GetDoEmission = [1]
+[W:20230901 17:00:38.920] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 17:00:42.195] [00777] Merging Start
+[N:20230901 17:00:42.195] [00777] Merging UseCalibration
+[N:20230901 17:00:42.195] [00777] Merging UseCalibration
+[N:20230901 17:00:45.453] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:00:48.318] [00000] Log On : Administrator
+[N:20230901 17:02:00.001] [00001] Job start
+[N:20230901 17:02:00.001] [00001] WORKMODE - Weld Mode
+[W:20230901 17:02:51.734] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 17:03:15.470] [00001] Job end , tact time = 75.469 sec
+[N:20230901 17:05:30.475] [00000] Online Mode
+[N:20230901 17:05:50.618] [00001] Initialize Request
+[N:20230901 17:05:50.816] [00001] Initialize Response
+[N:20230901 17:05:50.816] [00001] Time Sync Request
+[N:20230901 17:05:50.816] [00001] Set Local Time by PLC : 2023-09-01 17:06:13
+[N:20230901 17:05:50.986] [00001] Time Sync Response
+[N:20230901 17:06:19.858] [00001] Receiveed inspection Request From PLC
+[N:20230901 17:06:19.858] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 17:06:19.950] [00001] Work file load as Normal works
+[N:20230901 17:06:19.966] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 17:06:19.968] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 17:06:19.968] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:06:20.288] [00001] Update3DPosition RCP No: 2
+[N:20230901 17:06:20.296] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 17:06:20.302] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 17:06:20.308] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 17:06:20.314] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 17:06:20.336] [00001] Update3DPosition Complete
+[N:20230901 17:07:22.011] [00000] Offline Mode
+[N:20230901 17:07:22.978] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 17:07:22.978] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:07:23.282] [00001] Update3DPosition RCP No: 2
+[N:20230901 17:07:23.290] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 17:07:23.296] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 17:07:23.302] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 17:07:23.308] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 17:07:23.708] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 17:07:43.158] [00777] Merging Start
+[N:20230901 17:07:43.159] [00777] Merging UseCalibration
+[N:20230901 17:07:43.159] [00777] Merging UseCalibration
+[N:20230901 17:07:46.466] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:07:48.747] [00000] Log On : Administrator
+[N:20230901 17:11:41.308] [00001] Job start
+[N:20230901 17:11:41.308] [00001] WORKMODE - Weld Mode
+[W:20230901 17:11:46.311] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 17:11:57.409] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 17:12:54.902] [00001] Job end , tact time = 73.593 sec
+[N:20230901 17:13:36.411] [00000] Online Mode
+[N:20230901 17:13:48.219] [00001] Initialize Request
+[N:20230901 17:13:48.403] [00001] Initialize Response
+[N:20230901 17:13:48.403] [00001] Time Sync Request
+[N:20230901 17:13:48.403] [00001] Set Local Time by PLC : 2023-09-01 17:14:11
+[N:20230901 17:13:48.587] [00001] Time Sync Response
+[N:20230901 17:13:59.424] [00001] Receiveed inspection Request From PLC
+[N:20230901 17:13:59.424] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 17:13:59.514] [00001] Work file load as Normal works
+[N:20230901 17:13:59.534] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 17:13:59.536] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 17:13:59.536] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:13:59.888] [00001] Update3DPosition RCP No: 1
+[N:20230901 17:13:59.894] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 17:13:59.900] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 17:13:59.906] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 17:13:59.912] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 17:13:59.918] [00001] [N:20230901 17:13:59.970] [00001] Update3DPosition Complete
+[N:20230901 17:14:00.470] [09999] !!! Reconnect PLC !!!
+[N:20230901 17:14:00.470] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:00.983] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 17:14:00.983] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:01.155] [09999] !!! Reconnect PLC !!!
+[N:20230901 17:14:01.155] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:01.659] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 17:14:01.663] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:02.197] [09999] !!! Reconnect PLC !!!
+[N:20230901 17:14:02.197] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:02.704] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 17:14:02.708] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 17:14:46.158] [00001] Start Repair Weld
+[N:20230901 17:14:46.158] [00001] Job start
+[N:20230901 17:14:46.158] [00001] WORKMODE - Weld Mode
+[N:20230901 17:14:49.674] [00001] Job end , tact time = 3.516 sec
+[N:20230901 17:18:13.177] [00001] Initialize Request
+[N:20230901 17:18:13.368] [00001] Initialize Response
+[N:20230901 17:18:13.368] [00001] Time Sync Request
+[N:20230901 17:18:13.368] [00001] Set Local Time by PLC : 2023-09-01 17:18:36
+[N:20230901 17:18:13.518] [00001] Time Sync Response
+[N:20230901 17:22:23.810] [00000] Offline Mode
+[N:20230901 17:22:25.850] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 17:22:25.850] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:22:26.218] [00001] Update3DPosition RCP No: 1
+[N:20230901 17:22:26.226] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 17:22:26.232] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 17:22:26.238] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 17:22:26.244] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 17:22:26.252] [00001] [N:20230901 17:22:26.768] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 17:22:46.192] [00777] Merging Start
+[N:20230901 17:22:46.192] [00777] Merging UseCalibration
+[N:20230901 17:22:46.192] [00777] Merging UseCalibration
+[N:20230901 17:22:49.476] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:22:51.387] [00000] Online Mode
+[N:20230901 17:22:56.347] [00001] Initialize Request
+[N:20230901 17:22:56.511] [00001] Initialize Response
+[N:20230901 17:22:56.511] [00001] Time Sync Request
+[N:20230901 17:22:56.511] [00001] Set Local Time by PLC : 2023-09-01 17:23:19
+[N:20230901 17:22:56.673] [00001] Time Sync Response
+[N:20230901 17:24:25.867] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 17:24:45.392] [00777] Merging Start
+[N:20230901 17:24:45.392] [00777] Merging UseCalibration
+[N:20230901 17:24:45.392] [00777] Merging UseCalibration
+[N:20230901 17:24:48.673] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:25:17.162] [09999] DoVScan, GetDoEmission = [1]
+[W:20230901 17:25:17.726] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 17:25:36.769] [00777] Merging Start
+[N:20230901 17:25:36.769] [00777] Merging UseCalibration
+[N:20230901 17:25:36.769] [00777] Merging UseCalibration
+[N:20230901 17:25:40.015] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:25:42.346] [00000] Offline Mode
+[N:20230901 17:25:43.962] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 17:25:43.962] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:25:44.258] [00001] Update3DPosition RCP No: 1
+[N:20230901 17:25:44.266] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 17:25:44.266] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 17:25:44.268] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 17:25:44.270] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 17:25:44.738] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 17:26:04.328] [00777] Merging Start
+[N:20230901 17:26:04.328] [00777] Merging UseCalibration
+[N:20230901 17:26:04.328] [00777] Merging UseCalibration
+[N:20230901 17:26:07.625] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:26:49.705] [00000] Log On : Administrator
+[N:20230901 17:27:30.675] [00000] Online Mode
+[N:20230901 17:27:32.984] [00001] Initialize Request
+[N:20230901 17:27:33.168] [00001] Initialize Response
+[N:20230901 17:27:33.168] [00001] Time Sync Request
+[N:20230901 17:27:33.168] [00001] Set Local Time by PLC : 2023-09-01 17:27:55
+[N:20230901 17:27:33.342] [00001] Time Sync Response
+[N:20230901 17:28:32.196] [00001] Initialize Request
+[N:20230901 17:28:32.390] [00001] Initialize Response
+[N:20230901 17:28:32.390] [00001] Time Sync Request
+[N:20230901 17:28:32.390] [00001] Set Local Time by PLC : 2023-09-01 17:28:55
+[N:20230901 17:28:32.588] [00001] Time Sync Response
+[N:20230901 17:29:53.058] [00000] Offline Mode
+[N:20230901 17:29:55.126] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 17:29:55.126] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 17:29:55.492] [00001] Update3DPosition RCP No: 1
+[N:20230901 17:29:55.500] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 17:29:55.502] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 17:29:55.504] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 17:29:55.504] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 17:29:55.990] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 17:30:15.543] [00777] Merging Start
+[N:20230901 17:30:15.543] [00777] Merging UseCalibration
+[N:20230901 17:30:15.543] [00777] Merging UseCalibration
+[N:20230901 17:30:18.874] [09999] EVENT_WORK_VSCAN
+[N:20230901 17:30:25.401] [00000] Log On : Administrator
+[N:20230901 17:32:14.070] [00001] Job start
+[N:20230901 17:32:14.070] [00001] WORKMODE - Weld Mode
+[N:20230901 17:32:14.729] [00001] Job end , tact time = 0.659 sec
+[N:20230901 17:32:17.034] [00000] Online Mode
+[N:20230901 17:35:31.124] [00000] Offline Mode
+[N:20230901 17:35:34.072] [00000] Log On : Administrator
+[N:20230901 17:35:56.320] [00001] Job start
+[N:20230901 17:35:56.320] [00001] WORKMODE - Weld Mode
+[N:20230901 17:35:56.972] [00001] Job end , tact time = 0.652 sec
+[N:20230901 17:38:02.903] [00000] Online Mode
+[N:20230901 17:38:23.238] [00001] Initialize Request
+[N:20230901 17:38:23.408] [00001] Initialize Response
+[N:20230901 17:38:23.408] [00001] Time Sync Request
+[N:20230901 17:38:23.408] [00001] Set Local Time by PLC : 2023-09-01 17:38:46
+[N:20230901 17:38:23.584] [00001] Time Sync Response
+[N:20230901 18:02:28.637] [00000] Offline Mode
+[N:20230901 18:02:33.715] [00000] Online Mode
+[N:20230901 18:03:26.770] [00001] Initialize Request
+[N:20230901 18:03:26.960] [00001] Initialize Response
+[N:20230901 18:03:26.960] [00001] Time Sync Request
+[N:20230901 18:03:26.960] [00001] Set Local Time by PLC : 2023-09-01 18:03:49
+[N:20230901 18:03:27.130] [00001] Time Sync Response
+[N:20230901 18:07:34.540] [00000] Offline Mode
+[N:20230901 18:07:52.554] [00000] Online Mode
+[N:20230901 18:08:00.240] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:08:00.240] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 18:08:00.330] [00001] Work file load as Normal works
+[N:20230901 18:08:00.352] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 18:08:00.354] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:08:00.354] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:08:00.582] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:08:00.590] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:08:00.596] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:08:00.602] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:08:00.608] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:08:00.632] [00001] Update3DPosition Complete
+[N:20230901 18:08:12.675] [00000] Offline Mode
+[N:20230901 18:08:14.644] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:08:14.644] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:08:14.982] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:08:14.990] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:08:14.996] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:08:15.002] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:08:15.008] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:08:15.544] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 18:08:34.992] [00777] Merging Start
+[N:20230901 18:08:34.992] [00777] Merging UseCalibration
+[N:20230901 18:08:34.992] [00777] Merging UseCalibration
+[N:20230901 18:08:38.962] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:08:43.960] [00000] Log On : Administrator
+[N:20230901 18:11:19.945] [00001] Job start
+[N:20230901 18:11:19.945] [00001] WORKMODE - Weld Mode
+[W:20230901 18:12:22.587] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 18:12:36.493] [00001] Job end , tact time = 76.548 sec
+[N:20230901 18:13:00.164] [00000] Online Mode
+[N:20230901 18:13:17.154] [00001] Initialize Request
+[N:20230901 18:13:17.326] [00001] Initialize Response
+[N:20230901 18:13:17.326] [00001] Time Sync Request
+[N:20230901 18:13:17.326] [00001] Set Local Time by PLC : 2023-09-01 18:13:40
+[N:20230901 18:13:17.510] [00001] Time Sync Response
+[N:20230901 18:13:51.213] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:13:51.213] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 18:13:51.305] [00001] Work file load as Normal works
+[N:20230901 18:13:51.321] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 18:13:51.323] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:13:51.323] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:13:51.591] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:13:51.599] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:13:51.605] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:13:51.611] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:13:51.617] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:13:51.623] [00001] [N:20230901 18:13:51.677] [00001] Update3DPosition Complete
+[N:20230901 18:13:55.873] [00001] Start Repair Weld
+[N:20230901 18:13:55.881] [00001] Job start
+[N:20230901 18:13:55.881] [00001] WORKMODE - Weld Mode
+[W:20230901 18:14:01.640] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 18:14:02.113] [00001] Job end , tact time = 6.232 sec
+[N:20230901 18:19:21.224] [00000] Offline Mode
+[N:20230901 18:19:26.392] [00000] Online Mode
+[N:20230901 18:21:55.096] [00000] Offline Mode
+[N:20230901 18:21:55.800] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:21:55.800] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:21:56.160] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:21:56.168] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:21:56.174] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:21:56.180] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:21:56.186] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:21:56.662] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 18:22:16.193] [00777] Merging Start
+[N:20230901 18:22:16.193] [00777] Merging UseCalibration
+[N:20230901 18:22:16.193] [00777] Merging UseCalibration
+[N:20230901 18:22:19.459] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:24:06.514] [00000] Online Mode
+[N:20230901 18:24:10.616] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:24:10.616] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 18:24:10.706] [00001] Work file load as Normal works
+[N:20230901 18:24:10.726] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 18:24:10.728] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:24:10.728] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:24:11.026] [00001] Update3DPosition RCP No: 2
+[N:20230901 18:24:11.032] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:24:11.038] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:24:11.044] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:24:11.050] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:24:11.072] [00001] Update3DPosition Complete
+[N:20230901 18:24:39.206] [00000] Offline Mode
+[N:20230901 18:24:40.524] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:24:40.524] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:24:40.850] [00001] Update3DPosition RCP No: 2
+[N:20230901 18:24:40.858] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:24:40.864] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:24:40.870] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:24:40.876] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:24:41.366] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 18:25:00.918] [00777] Merging Start
+[N:20230901 18:25:00.918] [00777] Merging UseCalibration
+[N:20230901 18:25:00.918] [00777] Merging UseCalibration
+[N:20230901 18:25:04.223] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:25:20.870] [00001] Job start
+[N:20230901 18:25:20.870] [00001] WORKMODE - Weld Mode
+[W:20230901 18:25:20.932] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 18:26:28.060] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 18:26:37.221] [00001] Job end , tact time = 76.350 sec
+[N:20230901 18:26:39.666] [00000] Online Mode
+[N:20230901 18:26:51.634] [00001] Initialize Request
+[N:20230901 18:26:51.826] [00001] Initialize Response
+[N:20230901 18:26:51.826] [00001] Time Sync Request
+[N:20230901 18:26:51.826] [00001] Set Local Time by PLC : 2023-09-01 18:27:14
+[N:20230901 18:26:51.994] [00001] Time Sync Response
+[N:20230901 18:27:41.582] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:27:41.582] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[E:20230901 18:27:41.670] [00001] Work file load as Normal works
+[N:20230901 18:27:41.684] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigB.wrk
+[N:20230901 18:27:41.686] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:27:41.686] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:27:41.952] [00001] Update3DPosition RCP No: 2
+[N:20230901 18:27:41.960] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:27:41.966] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:27:41.972] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:27:41.978] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:27:41.984] [00001] [N:20230901 18:27:42.042] [00001] Update3DPosition Complete
+[N:20230901 18:27:47.475] [00001] Start Repair Weld
+[N:20230901 18:27:47.475] [00001] Job start
+[N:20230901 18:27:47.475] [00001] WORKMODE - Weld Mode
+[N:20230901 18:27:48.261] [00001] Job end , tact time = 0.786 sec
+[N:20230901 18:31:19.460] [00001] Initialize Request
+[N:20230901 18:31:19.654] [00001] Initialize Response
+[N:20230901 18:31:19.654] [00001] Time Sync Request
+[N:20230901 18:31:19.654] [00001] Set Local Time by PLC : 2023-09-01 18:31:42
+[N:20230901 18:31:19.874] [00001] Time Sync Response
+[N:20230901 18:35:25.448] [00000] Offline Mode
+[N:20230901 18:35:27.641] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:35:27.641] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:35:27.921] [00001] Update3DPosition RCP No: 2
+[N:20230901 18:35:27.929] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:35:27.935] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:35:27.941] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:35:27.947] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:35:28.318] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 18:35:47.820] [00777] Merging Start
+[N:20230901 18:35:47.820] [00777] Merging UseCalibration
+[N:20230901 18:35:47.820] [00777] Merging UseCalibration
+[N:20230901 18:35:51.172] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:35:55.613] [00000] Log On : Administrator
+[N:20230901 18:37:45.171] [00001] Job start
+[N:20230901 18:37:45.171] [00001] WORKMODE - Weld Mode
+[N:20230901 18:37:45.859] [00001] Job end , tact time = 0.688 sec
+[N:20230901 18:38:00.128] [00001] Job start
+[N:20230901 18:38:00.128] [00001] WORKMODE - Weld Mode
+[N:20230901 18:38:00.784] [00001] Job end , tact time = 0.656 sec
+[N:20230901 18:39:22.167] [00001] Job start
+[N:20230901 18:39:22.167] [00001] WORKMODE - Weld Mode
+[N:20230901 18:39:22.897] [00001] Job end , tact time = 0.730 sec
+[N:20230901 18:39:39.641] [00000] Offline Mode
+[N:20230901 18:40:57.568] [00001] Update3DPosition Read Work Jig: 2
+[N:20230901 18:40:57.568] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:40:57.914] [00001] Update3DPosition RCP No: 2
+[N:20230901 18:40:57.922] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.001940][0.004950][-0.172596][0.000947][1.000860][0.440758]
+[N:20230901 18:40:57.928] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001254][0.001148][-0.291496][-0.004232][1.001349][-0.270960]
+[N:20230901 18:40:57.934] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.003180][0.005626][0.287109][-0.001188][1.001357][-0.276231]
+[N:20230901 18:40:57.940] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.004229][0.002007][0.219791][-0.007023][1.001587][0.329403]
+[N:20230901 18:40:58.097] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 18:41:17.592] [00777] Merging Start
+[N:20230901 18:41:17.592] [00777] Merging UseCalibration
+[N:20230901 18:41:17.592] [00777] Merging UseCalibration
+[N:20230901 18:41:20.844] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:41:21.688] [00000] Log Out : Operator
+[N:20230901 18:41:23.141] [00000] Log On : Administrator
+[N:20230901 18:42:37.104] [00001] Job start
+[N:20230901 18:42:37.104] [00001] WORKMODE - Weld Mode
+[N:20230901 18:42:37.795] [00001] Job end , tact time = 0.690 sec
+[N:20230901 18:42:41.205] [00000] Online Mode
+[N:20230901 18:42:48.988] [00001] Initialize Request
+[N:20230901 18:42:49.200] [00001] Initialize Response
+[N:20230901 18:42:49.200] [00001] Time Sync Request
+[N:20230901 18:42:49.200] [00001] Set Local Time by PLC : 2023-09-01 18:43:12
+[N:20230901 18:42:49.408] [00001] Time Sync Response
+[N:20230901 18:43:21.363] [00001] Initialize Request
+[N:20230901 18:43:21.562] [00001] Initialize Response
+[N:20230901 18:43:21.562] [00001] Time Sync Request
+[N:20230901 18:43:21.562] [00001] Set Local Time by PLC : 2023-09-01 18:43:44
+[N:20230901 18:43:21.724] [00001] Time Sync Response
+[N:20230901 18:53:06.391] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:53:06.393] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 18:53:06.483] [00001] Work file load as Normal works
+[N:20230901 18:53:06.507] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 18:53:06.509] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:53:06.509] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:53:06.785] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:53:06.795] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:53:06.801] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:53:06.807] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:53:06.813] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:53:06.835] [00001] Update3DPosition Complete
+[N:20230901 18:53:08.089] [00000] Offline Mode
+[N:20230901 18:53:09.289] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:53:09.289] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:53:09.631] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:53:09.639] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:53:09.645] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:53:09.651] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:53:09.657] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:53:10.001] [09999] DoVScan, GetDoEmission = [1]
+[W:20230901 18:53:12.101] [00001] Scanner Pos Ack Y Warning = [0]
+[N:20230901 18:53:29.454] [00777] Merging Start
+[N:20230901 18:53:29.454] [00777] Merging UseCalibration
+[N:20230901 18:53:29.454] [00777] Merging UseCalibration
+[N:20230901 18:53:32.638] [09999] EVENT_WORK_VSCAN
+[N:20230901 18:54:38.245] [00000] Log On : Administrator
+[N:20230901 18:56:06.434] [00001] Job start
+[N:20230901 18:56:06.434] [00001] WORKMODE - Weld Mode
+[N:20230901 18:57:20.745] [00001] Job end , tact time = 74.311 sec
+[N:20230901 18:57:32.476] [00000] Online Mode
+[N:20230901 18:57:47.057] [00001] Initialize Request
+[N:20230901 18:57:47.247] [00001] Initialize Response
+[N:20230901 18:57:47.247] [00001] Time Sync Request
+[N:20230901 18:57:47.247] [00001] Set Local Time by PLC : 2023-09-01 18:58:10
+[N:20230901 18:57:47.417] [00001] Time Sync Response
+[N:20230901 18:58:20.415] [00001] Receiveed inspection Request From PLC
+[N:20230901 18:58:20.415] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 18:58:20.509] [00001] Work file load as Normal works
+[N:20230901 18:58:20.525] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 18:58:20.527] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 18:58:20.527] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 18:58:20.843] [00001] Update3DPosition RCP No: 1
+[N:20230901 18:58:20.851] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 18:58:20.857] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 18:58:20.863] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 18:58:20.869] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 18:58:20.875] [00001] [N:20230901 18:58:20.949] [00001] Update3DPosition Complete
+[N:20230901 18:58:21.201] [09999] !!! Reconnect PLC !!!
+[N:20230901 18:58:21.201] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:21.712] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 18:58:21.712] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:21.897] [09999] !!! Reconnect PLC !!!
+[N:20230901 18:58:21.897] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:22.409] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:22.409] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 18:58:22.927] [09999] !!! Reconnect PLC !!!
+[N:20230901 18:58:22.927] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:23.437] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 18:58:23.439] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:23.610] [09999] !!! Reconnect PLC !!!
+[N:20230901 18:58:23.610] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:24.120] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 18:58:24.122] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:24.283] [09999] !!! Reconnect PLC !!!
+[N:20230901 18:58:24.283] [09999] PLC Disconnected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:24.791] [09999] PLC Connected(IP : 192.168.3.2, port : 8100)
+[N:20230901 18:58:24.793] [09999] PLC Data Connected(IP : 192.168.3.2, port : 8102)
+[N:20230901 18:58:26.011] [00001] Start Repair Weld
+[N:20230901 18:58:26.011] [00001] Job start
+[N:20230901 18:58:26.011] [00001] WORKMODE - Weld Mode
+[N:20230901 18:58:27.694] [00001] Job end , tact time = 1.683 sec
+[N:20230901 19:04:08.753] [00000] Offline Mode
+[N:20230901 19:04:13.353] [00000] Online Mode
+[N:20230901 19:04:34.329] [00001] Receiveed inspection Request From PLC
+[N:20230901 19:04:34.329] [00001] Open Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[E:20230901 19:04:34.415] [00001] Work file load as Normal works
+[N:20230901 19:04:34.425] [00001] Open Done Work File : D:\IWS_HAIRPIN\bin\Work\77 JigA.wrk
+[N:20230901 19:04:34.427] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 19:04:34.427] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 19:04:34.739] [00001] Update3DPosition RCP No: 1
+[N:20230901 19:04:34.745] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 19:04:34.751] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 19:04:34.757] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 19:04:34.763] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 19:04:34.785] [00001] Update3DPosition Complete
+[N:20230901 19:04:42.873] [00000] Offline Mode
+[N:20230901 19:04:44.177] [00001] Update3DPosition Read Work Jig: 1
+[N:20230901 19:04:44.177] [00001] Update3DPosition Read Word Count: 6144
+[N:20230901 19:04:44.481] [00001] Update3DPosition RCP No: 1
+[N:20230901 19:04:44.489] [00001] Calibration Metrix no 00 - [a11 ~ a13, a21 ~ a23]= [1.002768][0.007855][-0.061794][-0.005116][1.003247][0.187242]
+[N:20230901 19:04:44.495] [00001] Calibration Metrix no 01 - [a11 ~ a13, a21 ~ a23]= [1.001481][0.006211][-0.193178][-0.007995][1.003540][-0.198491]
+[N:20230901 19:04:44.501] [00001] Calibration Metrix no 02 - [a11 ~ a13, a21 ~ a23]= [1.004401][0.010208][0.266642][-0.006824][1.003435][-0.191838]
+[N:20230901 19:04:44.507] [00001] Calibration Metrix no 03 - [a11 ~ a13, a21 ~ a23]= [1.003914][0.005025][0.308112][-0.009406][1.003538][0.147128]
+[N:20230901 19:04:44.737] [09999] DoVScan, GetDoEmission = [1]
+[N:20230901 19:05:04.235] [00777] Merging Start
+[N:20230901 19:05:04.235] [00777] Merging UseCalibration
+[N:20230901 19:05:04.235] [00777] Merging UseCalibration
+[N:20230901 19:05:07.560] [09999] EVENT_WORK_VSCAN
+[N:20230901 19:05:09.481] [00000] Log On : Administrator
+[N:20230901 19:06:18.432] [00001] Job start
+[N:20230901 19:06:18.432] [00001] WORKMODE - Weld Mode
+[W:20230901 19:06:42.275] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 19:06:46.706] [00001] Scanner Pos Ack X Warning = [0]
+[W:20230901 19:06:54.095] [00001] Scanner Pos Ack Y Warning = [0]
+[W:20230901 19:07:01.665] [00001] Scanner Pos Ack X Warning = [0]
+[N:20230901 19:07:34.026] [00001] Job end , tact time = 75.594 sec

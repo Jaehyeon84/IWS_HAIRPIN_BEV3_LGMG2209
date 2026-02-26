@@ -1,0 +1,1329 @@
+[2024-01-17 10:37:38.205]	[Info]	MES Interface System is Started ========================
+[2024-01-17 10:37:38.478]	[Info]	[SEQ] Change To EQP_OFFLINE
+[2024-01-17 10:37:40.494]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:37:47.503]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:37:54.516]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:37:59.097]	[Info]	MES Interface System is Exited =========================
+[2024-01-17 10:37:59.103]	[Info]	Connected is failed.소켓 이외의 개체에 작업을 시도했습니다 192.168.3.2:8112
+[2024-01-17 10:38:05.243]	[Info]	MES Interface System is Started ========================
+[2024-01-17 10:38:05.478]	[Info]	[SEQ] Change To EQP_OFFLINE
+[2024-01-17 10:38:07.483]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:14.495]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:21.501]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:26.424]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:38:28.515]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:35.527]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:39.141]	[Info]	[PC->PLC] Jig A : Input Error ON
+[2024-01-17 10:38:39.585]	[Info]	[PC->PLC] Jig A : Input Error OFF
+[2024-01-17 10:38:40.715]	[Info]	[PC->PLC] Jig A : Input Response ON
+[2024-01-17 10:38:41.398]	[Info]	[PC->PLC] Jig A : Input Response OFF
+[2024-01-17 10:38:42.500]	[Info]	[PC->PLC] Jig A : Output Response ON
+[2024-01-17 10:38:42.542]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:43.212]	[Info]	[PC->PLC] Jig A : Output Response OFF
+[2024-01-17 10:38:43.751]	[Info]	[PC->PLC] Jig A : Output Response ON
+[2024-01-17 10:38:44.162]	[Info]	[PC->PLC] Jig A : Output Response OFF
+[2024-01-17 10:38:44.652]	[Info]	[PC->PLC] Jig A : Output Response ON
+[2024-01-17 10:38:45.538]	[Info]	[PC->PLC] Jig B : Input Response ON
+[2024-01-17 10:38:46.105]	[Info]	[PC->PLC] Jig B : Output Response ON
+[2024-01-17 10:38:46.840]	[Info]	[PC->PLC] Jig B : Output Response OFF
+[2024-01-17 10:38:47.628]	[Info]	[PC->PLC] Jig B : Input Response OFF
+[2024-01-17 10:38:48.440]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:38:49.552]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:38:55.649]	[Info]	MES Interface System is Exited =========================
+[2024-01-17 10:38:55.654]	[Info]	Connection is failed소켓 이외의 개체에 작업을 시도했습니다 127.0.0.1:40000
+[2024-01-17 10:38:55.663]	[Info]	Connected is failed.소켓 이외의 개체에 작업을 시도했습니다 192.168.3.2:8112
+[2024-01-17 10:39:00.591]	[Info]	MES Interface System is Started ========================
+[2024-01-17 10:39:00.829]	[Info]	[SEQ] Change To EQP_OFFLINE
+[2024-01-17 10:39:02.834]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:39:09.848]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:39:16.857]	[Info]	Connection is failed대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다 127.0.0.1:40000
+[2024-01-17 10:39:21.774]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:39:22.361]	[Info]	Connection is succeed.IP = [127.0.0.1] PORT = [40000]
+[2024-01-17 10:39:38.610]	[Info]	Connected is failed.소켓 이외의 개체에 작업을 시도했습니다 192.168.3.2:8112
+[2024-01-17 10:39:38.623]	[Info]	MES Interface System is Exited =========================
+[2024-01-17 10:39:38.639]	[Error]	스레드가 중단되었습니다.
+[2024-01-17 10:39:45.315]	[Info]	MES Interface System is Started ========================
+[2024-01-17 10:39:45.528]	[Info]	Connection is succeed.IP = [127.0.0.1] PORT = [40000]
+[2024-01-17 10:39:45.622]	[Info]	[Send] = {
+  "EAYT": {}
+}
+[2024-01-17 10:39:56.260]	[Info]	[Recv] = {"EAYT_R":{"EQPID":"MXPM-01MASL031","EQPNAME":"90 Hairpin welding PLC #1","PROCID":"EVZS20090","ORGID":"360245","LINEID":"MXPM-01-005"}}
+[2024-01-17 10:39:56.526]	[Info]	[Send] = {
+  "EEMR": {
+    "EQPID": "MXPM-01MASL031",
+    "CONTROLSTATE": "0"
+  }
+}
+[2024-01-17 10:39:59.767]	[Info]	[Recv] = {"ELNT":{}}
+[2024-01-17 10:39:59.788]	[Info]	[Send] = {
+  "ELNT_R": {
+    "EQPID": "MXPM-01MASL031"
+  }
+}
+[2024-01-17 10:40:00.801]	[Info]	[Recv] = {"ELNT":{}}
+[2024-01-17 10:40:00.807]	[Info]	[Send] = {
+  "ELNT_R": {
+    "EQPID": "MXPM-01MASL031"
+  }
+}
+[2024-01-17 10:40:01.716]	[Info]	[Recv] = {"ELNT":{}}
+[2024-01-17 10:40:01.722]	[Info]	[Send] = {
+  "ELNT_R": {
+    "EQPID": "MXPM-01MASL031"
+  }
+}
+[2024-01-17 10:40:02.632]	[Info]	[Recv] = {"ELNT":{}}
+[2024-01-17 10:40:02.638]	[Info]	[Send] = {
+  "ELNT_R": {
+    "EQPID": "MXPM-01MASL031"
+  }
+}
+[2024-01-17 10:40:03.652]	[Info]	[Recv] = {"ELNT":{}}
+[2024-01-17 10:40:03.658]	[Info]	[Send] = {
+  "ELNT_R": {
+    "EQPID": "MXPM-01MASL031"
+  }
+}
+[2024-01-17 10:40:06.488]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:40:09.225]	[Info]	[Recv] = {
+  "EPDS": 
+  {
+    "TID": "",
+    "WOID": "472518710",
+    "ORGID": "360245",
+    "LINEID": "MXPM-01-005",
+    "EQPID": "MXPM-01MASL031",
+    "PROCID": "EVZS20090",
+    "SETID": "BSLR230251001124051950",
+    "MODEL": {
+      "ID": "SPGM263G3C3",
+      "NAME": "SPGM263G3C3",
+      "SUFFIX": "BM1CM2N"
+    },
+    "SUBITEM_LIST": [
+      {
+        "NAME": "KALS_BOX_SN_TYPE",
+        "VALUE": "LM_FCA_BOX_SN22"
+      },
+      {
+        "NAME": "PRODCODE",
+        "VALUE": "S"
+      },
+      {
+        "NAME": "BOXQTY",
+        "VALUE": "9"
+      },
+      {
+        "NAME": "SPEC_ITEM_CATEGORY_ID",
+        "VALUE": "GM"
+      },
+      {
+        "NAME": "MODEL_INFO",
+        "VALUE": "12"
+      },
+      {
+        "NAME": "GMES_CODETYPE_IN",
+        "VALUE": "SETTINGBYMODEL"
+      },
+      {
+        "NAME": "KALS_LS_LABEL_TYPE",
+        "VALUE": "SET"
+      },
+      {
+        "NAME": "KALS_PALLET_SN_TYPE",
+        "VALUE": "LM_FCA_PALLET_SN22"
+      },
+      {
+        "NAME": "PALLETQTY",
+        "VALUE": "1"
+      },
+      {
+        "NAME": "KALS_LS_SN_TYPE",
+        "VALUE": "BEV3_MOTOR_SN22"
+            },
+            {
+                "NAME": "WELD_EQPID",
+                "VALUE": "MXPM-01MLQI090"
+            },
+            {
+                "NAME": "01_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "01_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "01_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "02_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "02_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "02_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "03_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "03_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "03_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "04_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "04_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "04_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "05_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "05_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "05_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "06_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "06_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "06_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "07_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "07_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "07_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "08_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "08_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "08_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "09_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "09_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "09_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "10_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "10_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "10_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "11_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "11_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "11_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "12_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "12_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "12_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "13_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "13_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "13_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "14_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "14_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "14_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "15_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "15_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "15_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "16_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "16_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "16_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "17_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "17_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "17_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "18_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "18_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "18_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "19_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "19_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "19_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "20_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "20_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "20_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "21_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "21_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "21_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "22_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "22_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "22_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "23_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "23_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "23_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "24_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "24_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "24_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "25_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "25_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "25_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "26_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "26_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "26_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "27_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "27_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "27_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "28_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "28_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "28_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "29_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "29_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "29_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "30_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "30_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "30_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "31_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "31_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "31_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "32_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "32_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "32_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "33_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "33_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "33_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "34_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "34_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "34_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "35_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "35_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "35_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "36_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "36_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "36_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "37_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "37_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "37_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "38_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "38_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "38_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "39_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "39_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "39_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "40_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "40_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "40_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "41_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "41_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "41_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "42_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "42_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "42_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "43_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "43_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "43_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "44_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "44_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "44_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "45_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "45_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "45_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "46_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "46_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "46_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "47_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "47_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "47_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "48_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "48_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "48_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "49_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "49_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "49_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "50_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "50_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "50_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "51_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "51_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "51_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "52_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "52_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "52_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "53_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "53_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "53_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "54_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "54_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "54_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "55_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "55_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "55_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "56_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "56_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "56_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "57_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "57_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "57_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "58_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "58_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "58_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "59_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "59_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "59_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "60_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "60_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "60_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "61_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "61_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "61_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "62_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "62_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "62_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "63_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "63_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "63_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "64_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "64_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "64_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "65_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "65_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "65_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "66_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "66_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "66_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "67_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "67_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "67_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "68_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "68_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "68_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "69_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "69_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "69_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "70_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "70_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "70_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "71_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "71_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "71_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "72_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "72_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "72_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "73_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "73_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "73_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "74_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "74_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "74_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "75_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "75_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "75_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "76_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "76_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "76_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "77_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "77_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "77_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "78_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "78_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "78_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "79_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "79_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "79_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "80_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "80_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "80_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "81_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "81_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "81_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "82_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "82_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "82_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "83_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "83_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "83_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "84_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "84_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "84_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "85_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "85_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "85_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "86_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "86_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "86_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "87_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "87_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "87_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "88_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "88_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "88_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "89_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "89_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "89_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "90_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "90_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "90_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "91_1-2",
+                "VALUE": "1H+3.552H+4.62C2.08J3.42T0.131H+3.552H+4.62C2.08J3.42T0.13FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "91_3-4",
+                "VALUE": "1H+3.982H+4.55C1.99J3.33T0.271H+3.982H+4.55C1.99J3.33T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "91_5-6",
+                "VALUE": "1H+4.182H+4.57C2.15J0.00T0.021H+4.182H+4.57C2.15J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "92_1-2",
+                "VALUE": "1H+3.432H+5.15C2.02J3.41T0.031H+3.432H+5.15C2.02J3.41T0.03FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "92_3-4",
+                "VALUE": "1H+3.982H+4.78C1.98J3.35T0.301H+3.982H+4.78C1.98J3.35T0.30FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "92_5-6",
+                "VALUE": "1H+4.372H+4.87C2.19J0.00T0.241H+4.372H+4.87C2.19J0.00T0.24FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "93_1-2",
+                "VALUE": "1H+3.862H+4.88C2.04J3.37T0.171H+3.862H+4.88C2.04J3.37T0.17FJOKD1NGD2OKD3OK"
+            },
+            {
+                "NAME": "93_3-4",
+                "VALUE": "1H+3.942H+4.82C1.97J3.38T0.261H+3.942H+4.82C1.97J3.38T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "93_5-6",
+                "VALUE": "1H+4.292H+4.92C2.00J0.00T0.071H+4.292H+4.92C2.00J0.00T0.07FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "94_1-2",
+                "VALUE": "1H+4.302H+4.99C2.06J3.44T0.181H+4.302H+4.99C2.06J3.44T0.18FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "94_3-4",
+                "VALUE": "1H+3.952H+4.76C2.00J3.31T0.271H+3.952H+4.76C2.00J3.31T0.27FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "94_5-6",
+                "VALUE": "1H+4.342H+4.51C2.24J0.00T0.331H+4.342H+4.51C2.24J0.00T0.33FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "95_1-2",
+                "VALUE": "1H+3.572H+4.71C2.04J3.37T0.171H+3.572H+4.71C2.04J3.37T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "95_3-4",
+                "VALUE": "1H+3.962H+4.72C1.92J3.43T0.201H+3.962H+4.72C1.92J3.43T0.20FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "95_5-6",
+                "VALUE": "1H+4.172H+4.50C2.02J0.00T0.021H+4.172H+4.50C2.02J0.00T0.02FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "96_1-2",
+                "VALUE": "1H+3.542H+5.03C1.95J3.50T0.261H+3.542H+5.03C1.95J3.50T0.26FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "96_3-4",
+                "VALUE": "1H+3.732H+4.68C1.95J3.40T0.171H+3.732H+4.68C1.95J3.40T0.17FJOKD1OKD2OKD3OK"
+            },
+            {
+                "NAME": "96_5-6",
+                "VALUE": "1H+4.192H+4.79C1.93J0.00T0.011H+4.192H+4.79C1.93J0.00T0.01FJOKD1NGD2OKD3OK"
+      }
+    ]
+  }}
+[2024-01-17 10:40:15.977]	[Info]	[Send] = {
+  "EPDS_R": {
+    "TID": "",
+    "WOID": "472518710",
+    "ORGID": "360245",
+    "LINEID": "MXPM-01-005",
+    "EQPID": "MXPM-01MASL031",
+    "PROCID": "EVZS20090",
+    "SETID": "BSLR230251001124051950",
+    "MODEL": {
+      "ID": "SPGM263G3C3",
+      "NAME": "SPGM263G3C3",
+      "SUFFIX": "BM1CM2N"
+    },
+    "ACK": "0",
+    "REASON": ""
+  }
+}
+[2024-01-17 10:40:36.842]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:40:37.381]	[Info]	Jig A : Copy Product Data to Old Buffer
+[2024-01-17 10:40:41.261]	[Info]	EPDS Received Jig No : 0
+[2024-01-17 10:40:59.663]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:41:30.719]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:41:54.341]	[Info]	Connected is failed.연결된 구성원으로부터 응답이 없어 연결하지 못했거나, 호스트로부터 응답이 없어 연결이 끊어졌습니다 192.168.3.2:8112
+[2024-01-17 10:41:57.278]	[Error]	인덱스가 배열 범위를 벗어났습니다.
+[2024-01-17 10:41:57.278]	[Info]	PLC Write
+[2024-01-17 10:41:57.280]	[Warning]	[Jig A] Model Error - MES : 12, PLC : 
+[2024-01-17 10:41:57.285]	[Info]	Connected is failed.소켓 이외의 개체에 작업을 시도했습니다 192.168.3.2:8112
